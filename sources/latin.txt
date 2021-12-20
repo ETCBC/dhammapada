@@ -1,0 +1,490 @@
+Dhammapada, Textus Latine a V. Fausboll (Londino, MCM)
+Per usum electronicum paratus a prof. dr. Bee Scherer (Universatis Liberae Amstelodami cathedram professoralem studiorum Buddhisticorum tenente)
+Amelodamo, MMXXI   
+
+Conventions: 
+j in Fausboll's Latin text has been transcribed as i according to Latinist convention except where it represents Pāli j in vv. 78; 184; 302; 388 (pabbajita); v. 230 (jambonada); v. 313 (paribbāja) 
+æ has been transcribed as ae
+ṃ is used instead of F.'s Pāli transliteration ṁ. 
+For clarity, Fausboll uses -â for the a-declension abl.sg. passim.
+For clarity, Fausboll uses -ûs for u-declension gen. sg. in the Neo-Latin Pāli loanword bhikkhus in v. 375.
+The Latin text has been corrected as per F.'s list of misprints (p. xv) at three places:
+1)	v. 1 tum eum sequitur (for: tum seum equitur)
+2)	v. 133 respondebunt (for: respodebunt)
+3)	v.145 ducunt (for: dncunt)
+Cap. vs. Roman numbers:  F. starts chapters in the Latin translation with "Cap." plus Arabic number (e.g. Cap. 1); for consistency, chapters are given Roman numbers (e.g. I) 
+ 
+----------
+I
+1 Naturae a mente principium ducunt, mens est potior pars earum, e mente constant; si (quis) mente inquinata aut loquitur aut agit, tum eum sequitur dolor, ut rota (bovis) vehentis pedem.
+2 Naturae a mente etc.; si (quis) mente serena aut loquitur aut agit, tum eum sequitur gaudium ut umbra non decedens.
+3 “Conviciis me obruit, verberavit me, vicit me, spoliavit me”; qui isto (animo) sese induunt, iracundia eorum non sedatur.
+4 “Conviciis etc.”; qui isto (animo) sese non induunt, iracundia in iis sedatur.
+5 Non enim iracundia iracundiae sedantur hic unquam, placabilitate vero sedantur; haec lex aeterna (est).
+6 Alieni non intelligunt: nos hic moriemur; qui vero hoc comprehendunt, tum (eorum) sedantur iurgia.
+7 Iucunda spectantem viventem, sensus non coercentem et in cibo modi nescium, socordem, viribus destitutum, eum certe superat Māras, ventus arborem sicut infirmam.
+8 Iucunda non spectantem viventem, sensus bene coercentem et in cibo modum noscentem, fidem habentem, intentis viribus praeditum, eum certe non superat Māras, ventus saxeum volut montem.
+9 Affectibus non liber qui fulvam vestem induere vult, temperantia et veritate privatus, non ille fulva veste dignus est.
+10 Qui vero affectus respuit, virtutibus bene instructus, temperantia et veritate praeditus, ille certe fulva veste dignus est.
+11 In eo, quod non essentiale, essentiam opinantes atque in essentia nonessentiale videntes, hi essentiam non adeunt, falsi studii participes.
+12 Essentiam vero essentiale habentes, et nonessentiale non-essentiale, hi essentiam adeunt, veri studii participes.
+13 Sicut domum male tectam pluvia perrumpit, ita meditatione destitutam cogitationionem cupido perrumpit.
+14 Sicut domum bene tectam pluvia non perrumpit, ita meditabundam cogitationem cupido non perrumpit.
+15 In hoc aevo moeret, morte obita moeret malum patrans, utrobique moeret; ille moeret, ille contristatur videns impuritatem facinoris sui.
+16 In hoc aevo gaudet, morte obita gaudet qui bonum perfecit, utrobique gaudet; ille gaudet, ille valde gaudet videns munditiam facinoris sui.
+17 In hoc aevo cruciatur, morte obita cruciatur malum patrans, utrobique cruciatur; “malum a me peractum”, ita (cogitans) cruciatur, magis cruciatur tartarum ingressus.
+18 In hoc aevo gaudet, morte obita gaudet qui bonum perfecit, utrobique gaudet; “bonum a me peractum”, ita (cogitans) gaudet, magis gaudet coelum ingressus.
+19 Multa quoque si concinna loquens ea non facit vir socors, bubulcus velut vaccas aliorum numerans, congregationis Samanarum non fit particeps.
+20 Pauca quoque si (quis) concinna loquens secundum legem vitam degit, et cupidinem et odium (et) perturbationem animi relinquens, plane sapiens, cogitatione bene liberata praeditus, nihil appetens vel hic vel illic, is congregationis Samanarum fit particeps.
+
+II
+21 Strenuitas immortalitatis via (est), socordia mortis via; strenui non moriuntur, qui socordes, quasi mortui (sunt).
+22 Hoc distincte cognoscentes strenuitatis gnari strenuitate gaudent, nobilium sorte Iaetantes.
+23 Hi meditabundi, perseverantes, semper fortibus viribus praediti, sapientes attingunt Nibbānum, felicitatem summam.
+24 Connitentis, recordantis, candide laborantis, considerate agentis sese continentisque, pie viventis, vigilantis gloria adaugescit.
+25 (Virium) intentione, strenuitate, continentia et temperantia sapiens faciat (sibi) insulam, quam torrens non obruat.
+26 Socordiam sectantur stulti, insipientes homines; strenuitatem vero sapiens ut thesaurum optimum servat.
+27 Ne (quis) socordiam sectetur, ne amoris et voluptatis familiaritatem, strenuus enim meditans amplum gaudium adipiscitur.
+28 Socordiam strenuitate quum dispellit intelligens (vir, tum), cognitionis palatio ascenso, moeroris expers vulgus moerore afflictum, velut in monte stans stantes in terra, sapiens stultos despicit.
+29 Promptus inter socordes, inter sopitos pervigil, invalidum equum sicut agilis equus (praecurrit), praecurrens, vadit bene sapiens.
+30 Strenuitate Maghavan deorum principatum adeptus est; strenuitatem celebrant, socordia semper increpatur.
+31 Strenuitate gaudens bhikkhus (mendicus), socordiam timens, vincula parva magnaque comburens, ignis velut perit.
+32 Strenuitate gaudens mendicus, socordiam metuens, perditioni non obnoxius est, in propinquo Nibbāni (versans).
+
+III
+33 Trepidam, fluctuantem cogitationem, custoditu difficilem, coercitu difficilem, rectam reddit sapiens, sagittam velut faber sagittarius.
+34 Piscis velut in terram coniectus ex aquae domicilio ablatus, palpitat haec cogitatio regno Mārae relinquendo.
+35 Refrenatu difficilis, levis, quolibet sese praecipitantis cogitationis coercitio salutaris (est), cogitatio domita gaudium affert.
+36 Observatu difficilem, valde idoneam, quodlibet delabentem cogitationem custodiat sapiens, cogitatio custodita gaudium affert.
+37 Effuse vagantem, in solitudine versantem, incorporalem, in (cordis) latebris habitantem cogitationem qui cohihebunt, e Mārae vinculis liberabuntur.
+38 Cogitatione inconstantis, veram legem non cognoscentis, (animi) tranquillitate vacillantis intellectus plenitudinem non attingit.
+39 Cogitatione ab affectibus vacua praediti, integram mentem habentis, bono maloque vacui, vigilantis non est metus.
+40 Vasi simile corpus hoc agnoscens, arci similem cogitationem hanc sistens, subigat (sapiens) Māram intellectus armis, victumque custodiat, domicilio liber sit.
+41 Intra breve tempus, heu, hoc corpus humi iacebit abiectum, iudicii expers, inutilis velut surculus.
+42 Inimicus inimico quidquid fecerit, invidiosus rursus invidioso, falso applicata cogitatio plus mali ei adhuc affert.
+43 Non id mater (vel) pater fecerit, vel alii quoque propinqui perfecte applicata cogitatio plus boni ei adhuc affert.
+
+IV
+44 Quisnam hanc terram superabit Yamaeque mundum hunc unacum deorum? Quisnam versus legis bene enarratos, peritus (coronarius) flores velut, colliget?
+45 Sekhas (discipulus) terram superabit Yamaeque, mundum hunc unacum deorum; sekhas (discipulus) versus legis bene enarratos, peritus (coronarius) flores velut, colliget.
+46 Spumae instar corpus hoc existimans, radiorum solis natura praeditum agnoscens, scindens Mārae sagittas (mendicus) mortis regem non videbit.
+47 Flores utique colligentem, constrictae mentis virum, sopitum vicum torrens velut, mors prehendens abit.
+48 Flores utique colligentem, constrictae mentis virum, amoribus non saturatum mors reddit sibi subiectum.
+49 Sicut apis florem colore et odore praeditum non violans aufugit succo percepto, ita in vita anachoreta incedat.
+50 Non aliorum aspera (verba), non aliorum facta et omissa, sua ipsius contempletur (quisque) facta omissaque.
+51 Ut nitens flos, colore praeditus, odore carens, ita bene prolatus sermo infecundus est non agentis.
+52 Ut nitens flos, colore praeditus et odore, ita bene prolatus sermo frugifer est agentis.
+53 Sicut e copia florum facere potest (coronarius) multa genera sertorum, ita nato mortali faciendum est bonum multum.
+54 Odor floris adversus ventum non procedit, nec candani nec tagaramallikae; proborum vero odor adversus ventum procedit, omnes regiones vir probus perflat.
+55 Candanum vel etiam tagarum, uppalum atque vassikis — horum odoratorum praeclarus (est) odor, quo nullus praestantior.
+56 (At) exiguus (tamen) hic odor, qui ipse est tagari et candani; qui vero proborum odor (est), spirat inter deos praestantissimus.
+57 Horum virtute ornatorum,strenue viventium, ob perfectam cognitionem liberatorum Māras viam non invenit.
+58–59 Sicut in sterquilinio ad magnam viam coniecto flos ibi nascitur puro odore praeditus, mentem exhilarans, ita inter (vulgus) stercori simile (versans) occaecato vulgo praelucet intelligentia plane sapientis (Buddhae) sāvakas (auscultator).
+
+V
+60 Longa (est) nox vigilantis, longa via defatigati, longa stultorum revolutio (saṃsāro), veram legem non intelligentium.
+61 Si (quis) socium itineris non adipiscatur (vel) meliorem, (vel) sui similem, solitarium iter firmum faciat, non est (enim) penes stultum sodalitas.
+62 “Filii mihi sunt, opes mihi sunt”, ita (cogitans) stultus sollicitatur, compos enim sui non est, nedum filiorura, nedum opum.
+63 Qui stultus se stultum putat, sapiens ille quidem ideo, stultus vero se sapientem putans, is certe stultus dicitur.
+64 Per vitam etiam si stultus ad sapientem assidet, legem ille non sapit, ligula iusculi saporem velut (non sapit).
+65 Momentum etiam si intelligens ad sapientem assidet, cito legem sapit, lingua iusculi saporem velut (sapit).
+66 Versantur stulti, insipientes, cum inimicis velut, secum, patrantes malum facinus, quod fructus amaros profert.
+67 Non id facinus factum bene, quo peracto (quis) cruciatur, cuius mercedem vultu lacrymoso plorans accipit.
+68 Id vero facinus bene factum, quo peracto non cruciatur, cuius mercedem Iaetus (et) mente hilari accipit.
+69 Quasi mel (malefactum) aestimat stultus, quamdiu malefactum non maturescit; quando vero maturescit malefactum, tum stultus dolorem subit.
+70 Per singulos menses extremo gramine kusae stultus cibum comedat, non is ornatissimorum partem adaequat decimam sextam.
+71 Non enim male factum facinus statim lac velut mutatur, urens illum stultum sequitur cinere opertus sicut ignis.
+72 Quandocunque ad nullum fructum cognitio stulti nascitur, occidit stulti fortunam, caput eius diffringens.
+73 Iniustam famam cupit primumque locum inter mendicos et in conventibus principatum et honores in familiis alienis.
+74 “A me perfectum putent gihines (patresfamilias) et pabbajitae (e vita saeculari profecti) utrique; mihi subiecti sint in iis, quae facienda vel omitenda, in quacunque (re)”; ita stulti animus (volvitur); desiderium et arrogantia (eius) increscit.
+75 “Alia nempe (est) via quae ad lucrum spectat, alia quae ad Nibbānum ducit”, ita hoc intellecto mendicus, Buddhae auscultator, honore non delectatur, secessum auget.
+
+VI
+76 Thesaurorum velut demonstratorem, quem videat (quis) vitia detegentem, reprehendentem, sapientem, eiusmodi intelligentem colat, talem colenti melius fit, non peius.
+77 Admoneat, praecipiat, ab inconcinno prohibeat; proborum videlicet is amicus fit, improborum fit inimicus.
+78 Ne colat improbos amicos, ne colat homines infimos, colat amicos probos, colat homines optimos.
+79 Legem imbibens laete degit serena cogitatione, a venerandis enarrata lege semper delectatur sapiens.
+80 Aquam videlicet ducunt aquarii, fabri sagittarii subigunt sagittam, lignum subigunt fabri tignarii, semet ipsi domant sapientes.
+81 Saxum sicut solidum vento non commovetur, ita in vituperatione et laudatione non titubant sapientes.
+82 Sicut lacus profundus, serenus, inturbidus, ita leges audiendo sedantur sapientes.
+83 Ubique certe homines probi versantur, non amori detiti loquuntur probi, gaudio tacti vel dolore quoque varium (habitum) non praebent sapientes.
+84 Non sui causa, non alterius causa nec filium expetit (sapiens), nec opes, nec regnum; non expetit iniuriâ incrementum suum, virtute is praeditus (est), intelligentia, iustitia.
+85 Pauci (sunt) ii inter homines, qui homines ripam ulteriorem attingunt, at reliqua ista multitudo ad ripam (citeriorem) tantum accurrit.
+86 Qui convenienter bene enarratae legi degunt, ii homines ripam ulteriorem adibunt, (etsi) fines mortis valde difficiles (sunt) traiectu.
+87-88 Nigra doctrina relicta albam amplectatur sapiens; domo in solitudinem egressus, in secessu, ubi difficile delectatu, ibi delectationem exoptet relictis amoribus inops, lustret sese a cogitationis pravitate sapiens.
+89 Quorum in scientiae membris cogitatio perfectissime consummata (est), qui cupiditatum omissione, nihil appetentes, gaudent ab affectibus vacui, luminosi, ii in (hoc) aevo (iam) tranquilli.
+
+VII
+90 Itinere perfuncti, moerore vacui, omni a parte soluti, omnibus vinculis liberati angor non invenitur.
+91 Contendunt recordatione praediti, domicilio non gaudcent hi; anseres velut lacum relinquentes omne domicilium relinquunt hi.
+92 Quibus non est coacervatio, qui cibos cognitos habent, vacuum notisque carens Nibbānum quibus res est, quam spectant, per aërem sicut avium, cursus eorum vix consequendus est.
+93 Cuius affectus exstincti (sunt), (qui-)que in cibo modicus, vacuum notisque carens Nibbānum cui res est, quam spectat, per aërem sicut avium, vestigium eius vix consequendum est.
+94 Cuius sensus ad quietem pervenerunt, equi velut ab auriga bene domiti, qui arrogantiam dimisit, qui affectuum expers est, tali dii quoque invident.
+95 Qui terrae instar est, molestia non afficitur, limini (portae urbis) similis, talis pius, lacus sicut luti expers; revolutiones non fiunt talis (viri).
+96 Tranquilla eius mens fit, tranquilla et sermo et actio, per absolutam cognitionem soluti, sedati talis.
+97 Quicunque vir non credulus (est) et increatum (Nibbānum) novit et societatem (cum mundo) scindit, (boni malique) opportunitatem tollit, desideria respuit, is certe homo praestantissimus.
+98 In vico vel in silva, in mari vel in terra, ubicunque venerabiles versantur, haec (est) terrae amoenitas.
+99 Delectabiles sunt silvae; ubi vulgus non delectatur, cupidinis expertes delectabuntur, hi (enim) voluptates non quaerunt.
+
+VIII
+100 Mille quoque (verba) si sermo (amplectitur, sed) vanis versibus constat, unus versus sententiosus melior, quo audito sedatur (homo).
+101 Mille quoque (verba) si carmen (amplecitur, sed) vanis versibus constat, unus carminis versus melior, quo audito sedatur (homo).
+102 Quique carmina (vel) centum dicit vanis versibus constantia, unus legis versus melior, quo audito sedatur (homo).
+103 Qui millies mille homines in certamine vincit, et (qui) semet ipsum solum superat, hic certe inter pugnae victores optimus.
+104 Semet ipsum vincere melius est quam hanc ceteram multitudinem; 
+105 semet ipsum domantis viri, semper sese cohibentis, nec deus, nec gandhabbas, nec Māras unacum Brahmane victoriam talis viri cladem facere potest.
+106 Qui singulis mensibus mille sacra facit centum per annos, et (qui) semet ipsum solum tranquillum momentum tantummodo colit, hic ipse cultus melior quam sacrificatio centum per annos.
+107 Et quicunque centum per annos igni ministrat in silva, et (qui) semet ipsum solum tranquillum momentum tantummodo colit, hic ipse cultus melior quam sacrificatio centum per annos.
+108 Quodcunque vel oblatum vel sacrificatum in (toto) mundo per annum (vulgo) offerat (quis) bona spectans, id cunctum non quartam adaequat partem (animi reverentia pleni); reverentia erga honeste viventes melior.
+109 Reverentia plenam naturam habentis, (virtute) provectiores semper venerantis quatuor qualitates augescunt: aetas, pulchritudo, gaudium, potestas.
+110 Quique centum annos vivit male moratus, non compositus, — vita unius diei melior bene morati, meditabundi.
+111 Quique centum annos vivit insipiens, non compositus, — vita unius diei melior sapientia praediti, meditabundi.
+112 Quique centum annos vivit languidus, viribus destitutus, — vita unius diei melior robur edentis firmum.
+113 Quique centum annos vivit ortum (rerum) et interitum non animadvertentis, — vita unius diei melior ortum et interitum animadvertentis.
+114 Quique centum annos vivit viam immortalem non conspiciens, — vita unius diei melior viam immortalem conspicientis.
+115 Quique centum annos vivit summam legem non conspiciens, — vita unius diei melior summam legem conspicientis.
+
+IX
+116 Festinet (quisque) in bono (agendo), a malo cogitationem retineat; segniter enim bonum agentis in malo delectatur mens.
+117 Malum si homo fecit, ne id faciat iterum iterumque; ne in eo libidinem habeat, dolor (enim) mali accumulatio.
+118 Bonum si homo fecit, faciat id iterum iterumque; in eo libidinem habeat, laetitia (enim) boni accumulatio.
+119 Improbus bonum videt, quamdiu malefactum non maturescit; ubi vero maturescit malefactum, tum mala videt.
+120 Probus malum videt, quamdiu bonum non maturescit, ubi vero bonum maturescit, tum bona videt.
+121 Ne (quis) parvi aestimet malum (dum cogitat) “me id non adibit”; guttae casu hydria impletur, impletur stultus malo paulatim colligens.
+122 Ne (quis) parvi aestimet bonum (dum cogitat): “me id non adibit”; guttae casu hydria impletur, impletur sapiens bono paulatim colligens.
+123 Mercator velut periculosam viam (evitat), parva manu comitum, opulentissimus, venenum (que) vivendi cupidus velut, mala fugiat (homo).
+124 In manu si vulnus non est, prehendere potest (homo) manu venenum, invulneratam (manum) non aggreditur venenum: non est peccatum (peccatum) non facientis.
+125 Qui virum innocentem offendit, integrum hominem, culpa liberum, in eum ipsum stultum retorquetur malum pulvis velut tenuis adversus ventum coniectus.
+126 Uterum nonnulli subeunt, tartarum malefici, ad caelum eunt vitam probam degentes, consummantur affectibus vacui.
+127 Non in aëre, non in medio mari, non montium speluncas ingrediendo invenitur illa terrae regio, ubi commorans liberetur (homo) malo facinore.
+128 Non in aëre, non in medio mari, non montium speluncas ingrediendo invenitur illa terrae regio, in qua commorantem mors non vincat.
+
+X
+129 Omnes tremunt baculum, omnes timent mortem, se ipsum exemplum reddens ne occidat (quis), ne occidere faciat.
+130 Omnes tremunt baculum, omnibus vita cara, se ipsum exemplum reddens ne occidat (quis), ne occidere faciat.
+131 Gaudii cupidos animantes qui baculo Iaedit, suum ipsius gaudium desiderans morte obita ille gaudium non consequitur.
+132 Gaudii cupidos animantes qui baculo non Iaedit, suum ipsius gaudium desiderans, morte obita ille gaudium consequitur.
+133 Ne dicas aspera in quemquam, lacessiti respondebunt tibi; molestus videlicet rixosus sermo, vindicta assequetur te.
+134 Si mutum te ipsum reddere potes tympanum fractum velut, talis tu adipisceris Nibbānum, (dum) rixandi cupido in te non invenitur.
+135 Sicut baculo bubulcus boves cogit in stabulum, ita et senium et mors vitam cogunt animantium.
+136 Ac mala facinora patrans stultus non resipiscit; facinoribus suis, igne combustus velut, insipiens uritur.
+137 Qui per baculum (homines) baculum non usurpantes, non offendentes, offendit, unam e decem conditionibus cito adit: 
+138 dolorem asperum, tabem corporisque diruptionem, vel etiam terribilem cladem, vel cogitationis dissipationem assequitur; 
+139 vel a rege (inflictam) plagam vel calumniam ingentem, vel interitum cognatorum vel opum dissolutionem; 
+140 vel etiam domos eius fulmen cremat (seu) ignis; corporis dissolutione insipiens iste ad inferos accedit.
+141 Non nudorum vivendi ratio, non capilli religati, non sordes, non ieiunium nec cubatio in loco sacro, (non) pulveris tegumentum (nec) cossim sedendi constantia purgant mortalem cupiditatum non expertem.
+142 Ornamentis quoque instructus si (quis) tranquillitatem (animi) exercet tranquillus, domitus, refrenatus, religiosus, omnibus animalibus non afferens castigationem, ille brāhmanas, ille samanas, ille bhikkhus.
+143 Pudore retentus homo quisnam in terra reperitur, qui increpationem non excitet, equus excellens flagellum velut? Equus velut excellens flagello tactus, ardentes, veloces estote.
+144 Fide et virtute et firmitate; meditatione et legis reputatione, scientiam et cultum exercentes, recordantes relinquetis dolorem hunc magnum.
+145 Aquam videlicet ducunt aquarii, fabri sagittarii subigunt sagittam, lignum subigunt fabri tignarii, semet ipsi domant pii.
+
+XI
+146 Quaenam (est) laetitia, quodnam gaudium (hoc in mundo) semper incendio oriente; tenebris involuti (quam ob rem) lucernam non quaeretis?
+147 Vide figuram versicolorem, ulcerosum corpus, congestum, aegrotum, multis consiliis captum, cuius non est (vel) firmitas (vel) constantia.
+148 Senio conficitur haec forma, morborum nidus, fragilis; finditur putridum corpus, finitur enim morte vita.
+149 Quae (sunt) haec alba ossa, abiectae cucurbitae (velut) auctumno, — ea videre quodnam (est) gaudium?
+150 Ossium arx facta (est), carnis et sanguinis conglutinatio, ubi et senium et mors, arrogantia et simulatio deposita est.
+151 Obsolescunt certe regum currus admodum varii, item corpus quoque senectutem subit, proborum vero pietas senectutem non subit, (sic) probi (Buddhae) certe unacum probis (hominibus) tradunt.
+152 Pauca edoctus hie homo bos velut senescit: carnes eius increscunt, cognitio eius non increscit.
+153 Multiplices generationis revolutiones percurrebam, non inveniens, domus (corporis) fabricatorem quaerens; doloris plena (est) generatio iterum iterumque (subeunda).
+154 Domus fabricator! (nunc) visus es, iterum domum non construes; omnes costae tuae fractae sunt, culmen domus destructum; destructionem (Nibbānum) adepta cogitatio (mea) ad desideriorum exstinctionem pervenit.
+155 Vita religiosa (statu Brahmacārinis) non culta, divitiis in iuventute non comparatis, ardeae decrepitae velut in lacu piscibus destituto, tabescunt (stulti).
+156 Vita religiosa non culta, divitiis in iuventute non comparatis, iacent arcus triti velut pristina lugentes.
+
+XII
+157 Si (quis) semet ipse carum habiturus est, habeat se bene custoditum; trium vigiliarum unam vigilet sapiens.
+158 Semet ipsum primura in honesto constituat, dein alterum edoceat, (tum) non in culpa est sapiens.
+159 Semet ipsum si (quis) ita format, ut alterum edoceat, bene domitus certe domabit, se ipsum enim profecto difficile est domitu.
+160 Quisque enim sui dominus, quis enim dominus alienus sit? per se ipsum enim domitum dominum nanciscitur (homo) nactu difficilem.
+161 Ab ipso factum peccatum, ex ipso progenitum, ab ipso oriundum, conterit insipientem, adamas velut e saxo oriundus gemmam.
+162 Cuius permagna nequitia (est), maluva arborem sicut eversam (facit, ita) is talem se ipsum reddit, qualem eum cupit inimicus.
+163 Factu facilia (sunt) mala et (homini) ipsi insalutaria; quod vero salutare et bonum, id certe factu valde difficile (est).
+164 Qui praceptum venerabilium, nobilium, pie viventium, increpat insipiens ad doctrinam confugiens falsam, fructus katthakae (arboris) velut ad suam ipsius cladem maturitatem adipiscitur.
+165 Ab (homine) ipso factum malum in ipso expiabitur, ab ipso non factum malum inipso compensabitur; probus (et) improbus singulatim (purificabuntur), alter alterum non purgat.
+166 Suum ipsius commodum ob magnum quoque alterius commodum ne (quis) dimittat; commodum suum perspectum habens sui ipsius commodi studiosus sit.
+
+XIII
+167 Perditos mores ne (quis) colat, in socordia ne vitam degat, falsam doctrinam ne colat, ne sit mundi amplificator.
+168 Surgat, ne sit socors, vitam probam degat; qui pie vivit bene agit in hoc mundo et in altero.
+169 Vitam degat honestam, inhonestam ne degat; qui pie vivit bene agit in hoc mundo et in altero.
+170 Sicut bullam contemplatur (quis), sicut contemplatur imagines aërias — tali modo mundum despicientem rex mortis non conspicit.
+171 Venite, contemplamini hunc mundum versicolorem, currui regali similem, ubi stulti perduntur, (ubi) non est vinculum intelligentium.
+172 Quique antea socordiae deditus posthac socordiam non colit, is hunc mundum collustrat nube liberata velut luna.
+173 Cuius male factum facinus bono operitur, is hunc mundum collustrat nube liberata velut luna.
+174 Occaecatus est hic mundus, pauci hic clare vident; avis e reti extricata velut pauci caelum adeunt.
+175 Anseres solis via incedunt; in aëre incedunt magiâ, tolluntur sapientes e mundo, Māra et comitatu eius superatis.
+176 Unum praeceptum violantis, falsiloqui viri, mundum alterum reprehendentis, non est malefactum, quod non fiat.
+177 Non certe avari deorum mundum adeunt, stulti profecto non laudant liberalitatem, sapiens vero liberalitate gaudet, quare quidem is evadit laetus in altero mundo.
+178 Terrae imperio caeli aditu vel totius mundi dominatione fructus e statu sotāpannae (sotāpatti) oriundus praestantior est.
+
+XIV
+179 Cuius victoria non vincitur, ad superationem (enim) eius haud it quisquam in mundo; illum Buddham, in infinitas res incumbentem, non investigabilem, quo vestigio investigabitis?
+180 Cui irretiens, extensum desiderium non est quoquam ducendi (potens), illum Buddham, in infinitas res incumbentem, non investigabilem, quo vestigio investigabitis?
+181 Qui meditatationis studiosi, sapientes, secessus tranquillitate gaudentes, iis dii etiam invident persapientibus, recordatione plenis.
+182 Laboriosus est conceptus hominis, laboriosa mortalium vita, laboriosa verae doctrinae auditio, laboriosus Buddharum ortus.
+183 Omnis mali omissio, boni susceptio, cogitationis suae lustratio: hoc est Buddharum praeceptum.
+184 Patientia optima devotio — indulgentia (videlicet), Nibbānum optimum dicunt Buddhae, non enim (is) pabbajitas (fit), qui alterum caedit, (neque) samanas fit, qui alterum affligit.
+185 Increpationis et vexationis omissio et secundum praescripta (quae liberationem spectant) continentia et moderatio edendi et secretus cubandi locus et in summa cogitatione occupatio: hoc est Buddharum praeceptum.
+186 Non per imbrem pecuniarum satietas libidinum invenitur, parum dulcedinis habentes doloris plenae (sunt) libidines: hoc perspecto homo sapiens (est).
+187 Etiam in divinis libidinibus gaudium ille non invenit, desiderii exstinctione gaudens fit plane sapiens auscultator.
+188 Multiplex sane refugium adeunt: montes et silvas, hortulos, arbores sacras, homines formidine perculsi.
+189 Non illud tamen refugium securum, non illud refugium summum, non illud refugium adeundo ab omni dolore liberatur (homo).
+190 Sed qui et ad Buddham et ad doctrinam et ad conventum confugit, quatuor veritates praecipuas clare perspiciendo videt: 
+191 dolorem, doloris ortum et doloris interitum, excellentem octopartitam viam ad doloris sedationem ducentem.
+192 Illud certe refugium securum, illud refugium summum, illud refugium adeundo ab omni dolore liberatur (homo).
+193 Difficilis nactu homo miraculosus (Buddhas videlicet), non ille ubique nascitur; ubi ille nascitur sapiens, illa familia bene adolescit.
+194 Laetabilis (est) Buddharum ortus, Iaetabilis verae doctrinae institutio, Iaetabilis unanimitas conventus, unanimorum devotio Iaetabilis.
+195 Reverentia dignos venerantis Buddhas vel etiam auscultatores, diffusionem (animi) devincentes, moerorem et luctum superantes, 
+196 hos tales venerantis tranquillos, a timore vacuos, non potest bonum (facinus) numerari hoc ipsum a quoquam.
+
+XV
+197 Laetissime sane vivimus inter iracundos mites, inter iracundos homines degimus mites.
+198 Laetissime sane vivimus inter aegrotos non aegroti, inter aegrotos homines degimus non aegroti.
+199 Laetissime sane vivimus inter desiderantes desiderii expertes, inter desiderantes homines degimus desiderii expertes.
+200 Laetissime sane vivimus, nos quibus non est quidquam; gaudio vescentes erimus dei ābhassarae velut.
+201 Victor inimicitias procreat, male agit victus; sedatus bene agit victoria et clade relictis.
+202 Non est cupidini similis ignis, non odio simile malum, non sunt elementis (khandha) aequales dolores, non est sedatione maius gaudium.
+203 Fames morbus gravissimus, sankhārae summi dolores, hoc revera agnoscens (sapiens agnoscit esse) Nibbānum summum gaudium.
+204 Sanitas maximum lucrum, gaudium summae divitiae, fiducia optimus cognatus, Nibbānum summum gaudium.
+205 Succo secessus bibito et succo tranquillitatis gustato terroris et peccati expers fit (homo) iucundum religionis succum bibens.
+206 Faustus (est) conspectus excellentium, consuetudo (cum iis) semper gaudium; stultos non videndo semper (homo) laetus est.
+207 Stultorum in consuetudine versans enim longâ viâ moeret, dolor (est) consuetudo cum stultis ut cum inimico omnino; sapientis vero consuetudo gaudium propinquorum velut congressus.
+208 Propterea igitur: Sapientem, intelligentem et multa edoctum, iumenti natura instructum, piis operibus ornatum, venerabilem — hunc talem virum probum, praeclaro intellectu praeditum, colat (homo) siderum viam velut luna.
+
+XVI
+209 Ad distractionem applicans sese et meditationi operam non navans, essentiâ relictâ iucunda capessens invidet iis, qui ad meditandum semet ipsi applicant.
+210 Ne iucunda quaerat (homo, neve) iniucunda unquam; iucunda non videre dolor (est) et iniucunda videre.
+211 Ideo iucunda ne faciat, iucundorum enim iactura mala (est); vincula illis non inveniuntur, quibus nec iucundum est nec iniucundum.
+212 Ex iucundo nascitur moeror, ex iucundo nascitur metus; a iucundo soluti non est moeror, nedum metus.
+213 E caritate nascitur moeror, e caritate nascitur metus; a caritate soluti non est moeror, nedum metus.
+214 E voluptate nascitur moeror, e voluptate nascitur metus; a voluptate soluti non est moeror, nedum metus.
+215 E cupiditate nascitur moeror, e cupiditate nascitur metus; a cupiditate soluti non est moeror, nedum metus.
+216 E desiderio nascitur moeror, e desiderio nascitur metus, a desiderio soluti non est moeror, nedum metus.
+217 Virtute et contemplatione praeditum, pium, veridicum, suum ipsius opus agentem, eum vulgus reddit sibi gratum; 
+218 cupidus (is) ineffabilis (Nibbāni) menteque opulentus est, et cupiditate cogitatio (eius) non constringitur, (is) uddhamsotas (qui sublime fertur) vocatur.
+219 Diu peregrinatum virum, e longinquo salve redeuntem, cognati et familiares et amici salutant venientem.
+220 Similiter eum, qui bona egit, ex hoc mundo in alterum profectum bona (opera) excipiunt, dilectum propinqui velut redeuntem.
+
+XVII
+221 Iram ponat (homo), deponat arrogantiam, vinculum omne superet; eum speciei propriae non inhaerentem, inopem non consequuntur dolores.
+222 Qui exorta miram currus volventis instar retinet, eum aurigam dico; frena tenens cetera multitudo.
+223 Clementiâ vincat (homo) iram, malum bono vincat, vincat avarum liberalitate, sinceritate falsiloquum.
+224 Verum loquatur ne irascatur, det parvulum rogatus: per has tres conditiones ibit in deorum propinquitatem.
+225 Vim non inferentes qui (sunt) anachoretae, semper corpore domiti, ii adeunt immortale locum, quo profecti non moerent.
+226 Semper vigilantium, die noctuque discentium, in Nibbānum intendentium intereunt cupiditates.
+227 Antiquum, (est) illud (verbum), o Atula, non illud quasi hodiernum (est): vituperant tacite sedentem, vituperant multa loquentem, demense loquentem etiam vituperant, non est in mundo (quisquam) non vituperatus.
+228 Neque fuit, neque erit, neque nunc reperitur solummodo vituperatus homo vel solummodo laudatus.
+229 Quem forte intelligentes laudant quotidie reputando, integram vitam degentem, sapientem, cognitione et virtute praeditum, 
+230 jambonadae numi instar quis eum vituperare sustinet? Etiam dii eum celebrant, a Brahma ipso celebratus (est).
+231 A corporis iracundia caveat (homo), corpore domitus sit; malis corporis facinoribus relictis per corpus bona facinora exerceat.
+232 A sermonis iracundia caveat, sermone domitus sit; malis sermonis facinoribus relictis per sermonem bona facinora exerceat.
+233 A mentis iracundia caveat, mente domitus sit, mails mentis facinoribus relictis per mentem bona facinora exerceat.
+234 Corpore domiti sapientes itidemque sermone domiti, mente domiti sapientes, hi sane ab omni parte bene domiti.
+
+XVIII
+235 Flaccidum folium velut nunc es et Yamae ministri quoque tibi appropinquarunt et in decessus ostio stas et (bonorum operum) viaticum tibi non invenitur.
+236 Tu fac tibi insulam, celeriter labora, sapiens esto; maculis liberatus, culpae expers divinam excellentium terram adibis.
+237 Aetatem confecisti nunc, processisti in propinquitatem Yamae et commoratio tibi non est in itinere et viaticum tibi non invenitur.
+238 Tu fac tibi insulam, celeriter labora, sapiens esto; maculis liberatus, culpae expers non iterum genituram et senectutem subibis.
+239 Ordine sapiens paulatim quoquo temporis puncto, opifex (maculas) argenti velut, auferat maculas suas.
+240 In ferro velut macula orta extemplo hoc ipsum comedit, ita modum transgredientem sua facinora trahunt ad inferos.
+241 Sine mediatione vitiosae (sunt) preces, sine contentione vitiosa oeconomia, vitium (est) coloris languor, socordia custodientis vitium.
+242 Vitium (est) mulieris evagatio, avaritia dantis vitium, vitia certe mali mores in hoc mundo et in altero.
+243 Dein vitio vitiosius (est): inscientia summum vitium; hoc vitio relicto a vitiis vacui estote, o mendici.
+244 Facile vita agitur ab impudico kākasūrae (simili), obtrectatore, protervo, arroganti, impure viventi.
+245 A pudico vero difficulter agitur, candida semper quaerenti, propensione vacuo, non arroganti, integram vitam degenti, (clare) videnti.
+246 Qui vitam exstinguit falsumque sermonem profert, in mundo non data sibi arripit et ad alterius uxorem accedit, 
+247 qui vir ad suram et merayum (potus inebriantes) bibendum se dat, is in hoc ipso mundo radicem eruit suam.
+248 Sic, heus homo, scito malos esse intemperantes, ne te desiderium et impietas diu dolori subiiciant.
+249 (Dona) dat quidem ex fide, ex favore vulgus, ob hoc qui tristis fit, ob aliorum potum et cibum, non is vel interdiu vel noctu meditationem adit.
+250 Cui vero id excisum est, radicitus exstirpatum, is certe vel interdiu vel noctu meditationem adit.
+251 Non est cupidini similis ignis, non est odio similis vorator, non est perturbationi simile rete, non est desiderio similis fluvius.
+252 Facile visu vitium aliorum, suum e contrario difficile visu; aliorum nempe is vitia castigat ut (quis iactat) paleas, sua e contrario occultat, tessaram velut lusor fraudulentus.
+253 Aliorum vitia observantis, semper offensionis animo praediti, affectus eius crescunt, longe is ab affectuum interitu abest.
+254 In aëre incessus non est, samanas non est extraneus, diffusione (animi) delectatur vulgus, a diffusione soluti Tathāgatae.
+255 In aere incessus non est, samanas non est extraneus, creaturae (sankhārā) aeternae non sunt, non est Buddharum motus.
+
+XIX
+256 Non ideo fit (homo) iustus, quod causam ex arbitrio diiudicet; qui autem verum falsumque utrumque considerat sapiens, 
+257 (qui) non arbitrario modo (sed) animo aequo iudicat alios, legis custos, intelligens, (is) iustus appellatur.
+258 Non ideo sapiens fit (homo), quod multa loquatur; placidus, iracundiae et formidinis expers sapiens appellatur.
+259 Non ideo legis servator (fit homo), quod multa loquatur; sed qui pauca etiamsi edoctus legem corpore perspicit, is certe legis servator est, qui legem non negligit. 
+260 Non ideo theras fit (homo), quod sit canum caput, plane matura (quidem) aetas eius, (attamen) frustra senescens vocatur; 
+261 in quo et veritas et pietas, mansuetudo, temperantia, moderatio, is certe culpa vacuus, sapiens, theras appellatur.
+262 Non verba faciendo tantummodo sive coloris pulchritudine venustus fit homo invidus, avarus, fraudulentus; 
+263 cui vero id excisum, radicitus exstirpatum, is vitii respuens, sapiens, venustus vocatur.
+264 Non tonsurâ samanas (fit homo) intemperans, falsiloquus; cupiditate et appetitu captus samanas num erit?
+265 Qui vero mala sedat parva magnaque omni ex parte, a sedatione malorum samanas appellatur.
+266 Non ideo bhikkhus fit (homo), quod apud alios mendicet, tota lege assumpta bhikkhus fit non ideo; 
+267 qui hic, bono maloque alienato, religiosus considerate in mundo vivit, is profecto bhikkhus appellatur.
+268 Non silentio munis (anachoreta) fit stultus, insciens, qui vero, trutina prehensa, meliore parte sumpta, 
+269 sapiens mala evitat, is munis,  ideo munis est; qui considerat utrumque in mundo, munis ideo appellatur.
+270 Non ideo ariyas (nobilis) fit (ullus), quod animantia caedat; ob mansuetudinem erga omnia animan tiaariyas appellatur.
+271 Non virtute et votis susceptis solis vel rursus multorum recordatione vel etiam meditationis lucratione vel lecto secreto 
+271 adipiscor secessus gaudium viris excellentibus appetitum; o bhikkhus, ne fiduciam habueris qui
+cupiditatum interitum non sis adeptus.
+
+XX
+273 Viarum octopartita (est) optima, veritatum quatuor versus, a cupidine vacuitas optimus (est) statuum, bipedumque contemplatione praeditus.
+274 Haec ipsa via (est), non est alia cognitionis lustrationi (subveniens); hanc igitur vos amplectimini, Mārae haec (est) illusio.
+275 Hanc enim vos amplectentes doloris finem facietis; enarrata profecto a me (est) via, intellecta doloris sedatione.
+276 Vobis facienda (est) virium contentio, enarratores (tantum) Tathāgatae; (viam) amplectentes liberabuntur meditabundi e Mārae vinculis.
+277 “Omnes creaturae inconstantes”, id quando sapientiâ videt (homo), tum liberatur in dolore; haec est via (quae) ad lustrationem (conducit).
+278 “Omnes creaturae doloris plenae”, id quando sapientiâ videt (homo), tum liberatur in dolore, haec est via (quae) ad lustrationem (conducit).
+279 “Omnes naturae sui impotentes sunt”, id quando sapientiâ videt (homo) tum liberatur in dolore; haec est via (quae) ad lustrationem (conducit).
+280 Roboris tempore vires non contendens iuvenis robustus, ignaviae indulgens, voluntate menteque depressus, segnis, intelligentiae viam ignavus non invenit.
+281 Verba (sua) custodiens (sit), mente bene domitus (sit), corporeque malum ne faciat; has tres actionis vias purget, amplectatur viam a vatibus enarratam.
+282 E meditatione certe nascitur intelligentia, e distractione intelligentiae interitus; hac bipartita via cognita incrementi et decrementi, talem se ipse reddat (homo), ut intelligentia crescat.
+283 Cupiditatem (vana i. e. cupiditas s. silva) exstirpate, non arborem (dico), e cupiditate oritur metus; cupiditate vel minima exstirpata (miseriis) liberati estote, o mendici.
+284 Quamdiu enim cupiditas non exstirpatur vel minima viri in feminas, tamdiu mente constrictus est ille, sicut vitulus lactens matri.
+285 Exstirpa tuam ipsius propensionem lotum auctumnalem velut manu, tranquillitatis viam amplifica, Nibbānum (enim) a Buddha institutum est.
+286 “Hic per tempus pluvium habitabo, hic frigido et fervido (tempore)”, sic stultus secum volvit, interitum (vitae) non animadvertit.
+287 Illum de filiis et pecudibus sollicitum, constrictae mentis virum, sopitum vicum torrens velut, mors prehendens proficiscitur.
+288 Non sunt filii saluti, non pater neque propinqui; quem mors adiit, ei non est penes cognatos salus.
+289 Hac rei vi perspecta sapiens virtute temperatus viam ad Nibbānum ducentem cito purget.
+
+XXI
+290 Exigui gaudii relictione si videt amplum gaudium, relinquat exiguum gaudium sapiens, amplum gaudium spectans.
+291 Aliis dolorem imponendo qui suum ipsius gaudium exoptat, iracundiae vinculo vinctus, iracundia ille non liberatur.
+292 Quod nempe faciendum (est) id negligitur, (quod) rursus non faciendum (id) agitur; insolentium, socordium, horum crescunt cupiditates.
+293 Quorum vero valde firma est semper corpus respiciens recordatio, quod non faciendum ii non persequuntur, quae facienda semper agentes; recordantium intelligentium intereunt cupiditates.
+294 Matre (et) patre occisis regibusque duobus militaribus, regno unacum eo pertinentibus devastato insons evadit brāhmanas.
+295 Matre (et) patre occisis regibusque duobus brahmanicis, occiso viro errante quinto insons evadit brāhmanas.
+296 Vigilantissime vigilant semper Gotamidae auscultatores, quorum et interdiu et noctu semper Buddham respiciens recordatio (est).
+297 Vigilantissime vigilant semper Gotamidae auscultatores, quorum et interdiu et noctu semper legem respiciens recordatio (est).
+298 Vigilantissime vigilant semper Gotamidae auscultatores, quorum et interdiu et noctu semper conventum respiciens recordatio (est).
+299 Vigilantissime vigilant semper Gotamidae auscultatores, quorum et interdiu et noctu semper corpus respiciens recordatio (est).
+300 Vigilantissime vigilant semper Gotamidae auscultatores, quorum et interdiu et noctu mansuetudine gaudens mens (est).
+301 Vigilantissime vigilant semper Gotamidae auscultatores, quorum et interdiu et noctu meditatione gaudens mens (est).
+302 Molestus pabbajitae status difficilis delectatu (est), difficiles gestu oeconomiae dolore (sunt) plenae, dolore plena inaequalium consuetudo, dolori subiecti (sunt) viatores, propterea neque viator sit (quisquam) neque dolori subiectus sit.
+303 Fidei plenus, virtute praeditus, gloria et opibus instructus quamcunque regionem invisit, hic ibidem honoratus (est).
+304 Longe probi fulgent Himavantas velut mons; improbi hic non conspiciuntur noctu emissae sicut sagittae.
+305 Sedem solitarium, cubitum solitarium solitarius colens non segnis, solitarius semet ipse domans in silva extrema delectatus sit.
+
+XXII
+306 Falsiloquus inferos subit vel etiam qui (malo) facto “non facio” ita dicit, ambo quidem illi morte obita pares fiunt perniciosa facinora patrantes homines illic.
+307 Humeros veste fulva cincti multi male morati, indomiti (sunt); mali ob mala facinora inferos illi adeunt.
+308 Melior (est) globus ferri consumtus candens, ignis flammae similis, quam si vescatur impius regni cibo indomitus.
+309 In quatuor status vir socors incidit alterius uxorerm appetens: iniucundi adeptionem, cubitum ingratum, vituperationem tertiam, tartarum quartum.
+310 Et infortunium et (inferorum) via mala (ei evenit) timidique cum timida (femina) gaudium brevissimum, rex grave supplicium sumit, propterea vir alterius uxorem ne appetat.
+311 Sicut gramen kusae male prehensum manum secat, (ita) communitas Samanarum male suscepta ad inferos ducit.
+312 Quodvis remissum facinus impurumque quod(vis) opus, dubio animo plena vita religiosa (status brahmacārinis): haec non fiunt magno fructui.
+313 Faciendum si (quid est), perficiat (homo) id, firmiter id agat; remissus enim paribbājas (mendicus ambulans) magis spargit vitium.
+314 Non factum perperam factum melius (est) postea urit perperam factum, et factum bene factum melius, quo facto non uritur (homo).
+315 Arx velut in finibus sita, custodita, (munimentis) interioribus et exterioribus instructa, — sic custodiat semet ipse; ne momentum quidem praetereat, qui enim momentum amiserunt moerent inferis traditi.
+316 Non pudendi quos pudet, pudendi quos non pudet, falsae doctrinae dediti animantes ad inferos vadunt.
+317 In non periculoso periculum conspicientes et in periculoso periculum non conspicientes falsae doctrinae dediti animantes ad inferos vadunt.
+318 In (eo, quod) non fugiendum (est), fugiendum opinantes et in (eo, quod) fugiendum (est), fugiendum non conspicientes falsae doctrinae dediti animantes ad inferos vadunt.
+319 Fugiendumque fugiendum censentes et non fugiendum non fugiendum verae doctrinae dediti animantes in caelum vadunt.
+
+XXIII
+320 Ego elephantus velut in certamine ex arcu emissam sagittam verba aspera perferam, impium enim vulgus.
+321 Domitum ducunt in coetum, domitum rex ascendit; domitus optimus (est) inter homines, qui verba aspera perfert.
+322 Praestantes (sunt) muli domiti, generosi (equi) Sindhuici, magni elephanti kuniarae; per se domitus adhuc praestantior.
+323 Non enim his vehiculis adire potest (quisquam) non aditam (Nibbāni) regionem (eo modo), quo per se ipsum bene domitum, domitus domitu (eo) pervenit.
+324 Dhanapālakas nomine elephantus, acri succo praeditus, vix coercendus, ligatus frustum non edit; memor est elephantorum silvae elephantus.
+325 Torpidus quando (quis) fit et pinguefactus, somnolentus, sese volutans iacens, magnus aper velut cibo sacrificali nutritus, iterum iterumque uterum subit stolidus.
+326 Antea haec cogitatio migrabat migrationem ex arbitrio, quo voluit, sicut placuit, eam nunc ego retinebo sapientia, elephantum furentem velut rector.
+327 Strenuitate Iaeti estote, cogitationem vestram custodite, e vix pervio (mundo) extrahite vosmet ipsi, in luto haerens velut elephantus.
+328 Si obtinuerit (quis) prudentem socium, comitem probe viventem sapientemque, omni calamitate superata cum eo degat laetus, recordationis plenus.
+329 Si non obtinuerit prudentem socium, comitem probe viventem sapientemque, rex velut regnum occupatum relinquens, solitarius agat mātangas in silva velut elephantus.
+330 Solitarii vita melior: non est penes stultum sodalitas; solitarius agat neve mala patret pauca desideria habens mātangas in silva velut elephantus.
+331 Negotio exorto suaves (sunt) sodales, gaudium suave quod mutuum, bonum (facinus) suave in vitas exstinctione, omnis doloris relictio suavis.
+332 Suave (est) munus matris in mundo, item munus patris suave, suave munus samanae in mundo, item munus brahmanae suave.
+333 Suavis (est) in senectute virtus, suavis fides firma, suavis intellectus adeptio, mala non facere suave.
+
+XXIV
+334 Hominis socorditer viventis libido increscit māluva velut; is currit huc et illuc fructum desiderans sicut in silva simia.
+335 Quem ilia superat saeva libido in mundo extensa, dolores eius augentur, sese adaugens velut (gramen) bīranum.
+336 Qui vero illam superat saevam libidinem in mundo vix vincendam, dolores ab eo decidunt gutta velut de loto.
+337 Ideo (hoc) dico salutare vobis, quotquot hic congressi: libidinis radicem eruite usīram petens velut bīranum, ne vos, arundinem velut flumen, Māras frangat iterum iterumque.
+338 Sicut, radice salva (et) firma, arbortonsa etiam denuo crescit, ita etiam libidinis studio non exstirpato revertitur dolor hic iterum iterumque.
+339 Cui triginta sex fluminibus diffluentes ad iucunda ferentes sunt undae (cupiditatis) validae, (eum) vehunt male edoctum studia amores petentia.
+340 Fluunt ubique (cupiditatis) flumina, planta serpens (velut) pullulans stat (cupiditas), eam vero plantam ortam videntes radicem prudentia scindite.
+341 Ruentia et libidinosa gaudia fiunt viri (cupiditati subiecti), illi voluptates petentes et gaudia exoptantes, illi certe generationem senectutemque subeunt viri.
+342 Cupiditatem subsequentes homines serpunt lepus velut (a venatore) pressus; ligamentis et vinculis vincti dolorem subeunt iterum iterumque diu.
+343 Cupiditatem subsequentes homines serpunt lepus velut (a venatore) pressus, propterea cupiditatem dispellat mendicus exoptans suam ipsius a cupidine vacuitatem.
+344 Qui a cupidine vacuus in cupidinem incensus cupidine liberatus in cupidinem ipsam incurrit, illum quidem virum contemplamini, solutus in vinculum incurrit.
+345 Non id firmum vinculum dicunt sapientes, quod ferreum, ligneum gramineumque; vehementissimum gemmarum annulorumque, filiorum et uxorum quod (est) desiderium, 
+346 hoc firmum vinculum dicunt sapientes, detrahens, laxum, vix dissolubile; hoc scisso ambulant desiderii expertes voluptatibus et gaudiis relictis.
+347 Qui cupidini dediti (sunt, hi desiderii) flumen sequuntur ab ipsis factum, araneus velut rete; hoc (vinculo) scisso ambulant sapientes desiderii expertes omni dolore relicto.
+348 Mitte (quae) ante, mitte (quae) posthac, (quae) in medio (iacent) mitte, mundum transiens, omni ex parte liberatam mentem possidens non iterum genituram et senectutem subibis.
+349 Deliberatione agitati hominis, vehementi cupidine capti, iucunda spectantis, magis libido augetur, is certe firmum facit vinculum.
+350 Qui vero deliberationis sedatione delectatus iniucundis studet semper recordatione praeditus, is certe (libidinem) removebit, is rescindet Mārae vinculum.
+351 Consummationem consecutus, non trepidus, libidinis et culpae expers abscidit mundi dolores; ultimum hoc (ei est) corpus.
+352 Libidinis et cupiditatis expers, niruttis vocabulorum peritus (et qui) litterarum congeriem cognovit, priores (litteras) posterioresque, is certes ultimum corpus habens admodum sapiens vocatur.
+353 Omnia vincens, omnium gnarus ego sum, omnibus conditionibus non adhaerens, omnia relinquens, in libidinis exstinctione solutus, ipse intelligens quemnam (magistrum meum) monstrem?
+354 Omne donum religionis donum vincit, omnem dulcedinem religionis dulcedo vincit, omne gaudium religionis gaudium vincit, libidinis exstinctio omnem dolorem vincit.
+355 Occidunt opes insipientem, non si (qui forte) ulteriorem ripam quaerunt; ob opum cupiditatem insipiens occidit tanquam alios semet ipsum.
+356 Herbis vitiantur agri, cupidine vitiatur hoc vulgus, ideo scilicet cupidinis expertibus donum (oblatum) fit magno fructui.
+357 Herbis vitiantur agri, odio vitiatur hoc vulgus, ideo scilicet odii expertibus donum (oblatum) fit magno fructui.
+358 Herbis vitiantur agri, perturbatione (animi) vitiatur hoc vulgus, ideo scilicet perturbationis expertibus donum (oblatum) fit magno fructui.
+359 Herbis vitiantur agri, desiderio vitiatur hoc vulgus, ideo scilicet desiderii expertibus donum (oblatum) fit magno fructui.
+
+XXV
+360 Oculi continentia salutaris (est), salutaris auris continentia, nasi continentia salutaris (est), salutaris linguae continentia.
+361 Corporis continentia salutaris (est), salutaris sermonis continentia, mentis continentia salutaris (est), salutaris omnibus in rebus continentia; omnibus in rebus se continens bhikkhus (mendicus) omni dolore liberatur.
+362 (Qui) manu moderatus, pede modaratus, sermone moderatus, moderatorum optimus, animo intimo delectatus, compositus, solitarius gaudens eum appellant bhikkhum.
+363 Qui bhikkhus ore moderatus, sapienter loquens, non tumidus, sensum (sermonis) et religionem illustrat, dulcis (est) eius oratio.
+364 Cui religio hortulus, religione gaudens, religionem reputans, religionem recordatus bhikkhus vera religione non excidit.
+365 Suum ipsius lucrum ne nimis magni aestimet, ne aliis invidens agat; aliis invidens bhikkhus meditationem non adipiscitur.
+366 Paululum modo lucratus si bhikkhus lucrum suum non nimis magni astimat, eum sane dii celebrant puram vitam degente, non segnem.
+367 Omnino speciei propriae cui non est studium neque vanis moeret, is certe bhikkhus dicitur.
+368 Benevole vivens bhikkhus, Buddhae praeceptis sedatus, adit locum tranquillum, naturarum (saṃkhārā) sedationem, gaudium.
+369 Exhauri, bhikkhus, hanc navem, exhausta tibi cito procedet, cupidine et odio rescissis dein Nibbānum adibis.
+370 Quinque (vincula) scindat bhikkhus, quinque (vincula) relinquat, quinque (sensus) magnopore colat, quinque vincula qui superavit bhikkhus oghatinnas (flumen transgressus) dicitur.
+371 Meditare, bhikkhus, neve socors sis, ne tuam ad res iucundas cogitationem vagari siveris, ne globum ferreum devores socors, ne ulules: “dolor hic (est)”, sic ustus (in tartaro).
+372 Non est meditatio non intelligentis, intellectus non est non meditantis; in quo et meditatio et intellectus, is sane in Nibbāni propinquitate (versatur).
+373 Vacuam domum ingresso, sedata cogitatione praedito bhikkhui divina voluptas fit plane religionem perspicienti.
+374 Simulac consideravit elementorum (khandhā) ortum et interitum, adipiscitur gaudium et voluptatem, immortalitatem illam intelligentium; 
+375 huius rei hoc exordium fit hic intelligentis bhikkhûs: sensuum custodia, animus contentus et secundum praescripta (quae liberationem spectant) continentia; amicos colas probos, puram vitam degentes, impigros; 
+376 vitam familiarem agat, morum gnarus sit, tum gaudio abundans doloris finem faciet.
+377 Vassika sicut flores flaccidos dimittit, ita et cupidinem et odium dimittite, o bhikkhus.
+378 Corpore sedatus, sermone sedatus, (mente) sedatus, bene compositus, qui cupiditates mundi exspuit bhikkhus sedatus vocatur.
+379 Per te incita te ipse, explores te (ipse) per te, talis tu per te custoditus, recordatione praeditus, Iaete, o bhikkhus, vitam ages.
+380 Quisque enim sui (est) dominus, quisque enim suum refugium; ideo cohibe te ipsum, equum generosum velut mercator.
+381 Gaudio abundans bhikkhus, sedatus Buddhae praeceptis, adit locum tranquillum, naturarum (saṃkhārā) sedationem, gaudium.
+382 Qui utique iuvenis bhikkhus applicat se ad Buddhae praecepta, is hunc mundum collustrat nube liberata velut luna.
+
+XXVI
+383 Exstingue (cupiditatis) flumen connitendo, cupiditates propelle, o brāhmana; naturarum (saṃkhārā) interitu perspecto increatum (Nibbānum) novisti, o brāhmana.
+384 Quando duabus in rebus ripam ulteriorem attingit brāhmanas, tum omnia eius vincula intereunt intelligentis.
+385 Cui ulterius vel citerius utrumque non invenitur, terroris expertem, solutum eum ego dico brāhmanam.
+386 Meditabundum, vitii expertem (solitarium) sedentem, negotio functum, cupidinibus vacuum, summam rem adeptum, eum ego dico brāhmanam.
+387 Die ardet sol, noctu fulget luna, armatus miles ardet, meditabundus ardet brāhmanas, at omnes dies noctesque Buddhas ardet claritate.
+388 Qui malum alienavit brāhmanas (dicitur); ob vitam sedatam samanas dicitur; dimittens suum ipsius vitium, ideo pabbajitas dicitur.
+389 Ne (quis) brāhmanae vim inferat, ne in illum se mittat brāhmanas; vae ei, qui brāhmanam caedit, dein vae (ei), qui in illum se mittit.
+390 Non brāhmanae hoc paulo melius, quando retentio (fit) mentis a iucundis; quo ex tempore violenta mens desinit, inde usque sedatur utique dolor.
+391 Cui corpore, sermone, mente non est malefactum, domitum (his) tribus nominibus, eum ego dico brāhmanam.
+392 A quo religionem cognoverit (quis) a persapientibus traditam, assidue eum veneretur ignem sanctum velut brāhmanas.
+393 Non capillis religatis, non gente, non genitura (homo) fit brāhmanas; in quo (vero) et veritas et pietas, is beatus isque brāhmanas.
+394 Quid tibi cum capillis religatis, stulte? quid tibi cum amictu ex pellibus facto? interna tua impervia (sunt), externa terges.
+395 Sordidam vestem gestantem hominem, macrum, venis consitum solitarium in silva meditantem, eum ego dico brāhmanam.
+396 Non ego brāhmanam dico utero natum, matre brahmanica oriundum, bhovādis (vociferator) nempe is fit, is quidem fit opulentus; inopem, cupiditatis expertem, eum ego dico brāhmanam.
+397 Omni ligamento scisso qui non contremit, vincula qui superavit, solutum, eum ego dico brāhmanaṃ.
+398 Scissis loris et corrigiis (et) funibus cum comitatu, claustra (inscientiae) qui excussit, sapientem, eum ego dico brāhmanam.
+399 Obiurgationem et caedem et vinculum insons qui fert, patientiae robore instructum (et hoc) robur exercitum habentem, eum ego dico brāhmanam.
+400 Non iracundum, piis operibus ornatum, virtute instructum, ab affectibus vacuum, domitum, ultimo corpore indutum, eum ego dico brāhmanam.
+401 Aqua in folio loti velut, in sagittae cuspide velut granum sinapis qui non inhaeret libidinibus, eum ego dico brāhmanam.
+402 Qui doloris sui cognoscit hic interitum, onus qui deposuit, solutum, eum ego dico brāhmanam.
+403 Alta intelligentia praeditum, sapientem, (quae sit) via et (quae) non (sit) via gnarum, summam rem adeptum, eum ego dico brāhmanam.
+404 Non utentem (hominibus) in domo et sine dome versantibus utrisque, sine domicilio grassantem, pauca desiderantem, eum ego dico brāhmanam.
+405 Non adhibita castigatione in animantes infirmos et firmos, qui non ferit neque ferire facit, eum ego dico brāhmanam.
+406 Obstantibus non obstantem, erga (homines) baculum prehendentes mitem, adversus cupientes non cupientem, eum ego dico brāhmanam.
+407 Cuius et cupiditas et odium, arrogantia et simulatio deciderunt, granum sinapis velut de sagittae cuspide, eum ego dico brāhmanam.
+408 Qui lenem, edocentem, veram vocem profert, qua non obiurget quemquam, eum ego dico brāhmanam.
+409 Qui hic neque longum neque breve, neque parvum neque magnum, neque iucundum neque iniucundum in mundo non datum sibi arripit, eum ego dico brāhmanam.
+410 Cupiditates cui non inveniuntur in hoc mundo alteroque, cupidinis expertem, solutum, eum ego dico brāhmanam.
+411 Cui studia non reperiuntur, (re) perspecta non dubitantem, immortalitatis comprehensionem adeptum, eum ego dico brāhmanam.
+412 Qui hic et bonum et malum, utrumque vinculum superavit, moeroris expertem, vitio liberum, integrum, eum ego dico brāhmanam.
+413 Lunae instar immaculatum, purum, placatum, inturbidum, voluptatem qui exstinxit, eum ego dico brāhmanam.
+414 Qui hanc adversariam, vix perviam revolutionem, perturbationem superavit, transgressus, ripam ulteriorem adeptus, meditabundus, concupiscentiae expers, non dubitans, non sibi arripiens tranquillus, eum dico brāhmanam.
+415 Qui hic libidinibus relictis sine domo vagatur, libidinem qui exstinxit, eum ego dico brāhmanam.
+416 Qui hic desiderio relicto sine domo vagatur, desiderium qui exstinxit, eum ego dico brāhmanam.
+417 (Qui) relicta humana societate divinam societatem superavit, omni societate liberatum, eum ego dico brāhmanam.
+418 Relicta et laetitia et moestitia tranquillum factum, materiae existendi expertem omnes mundos superantem, heroem, eum ego dico brāhmanam.
+419 Interitum qui novit animantium ortumque omnino, non studiosum, beatum, sapientem, eum ego dico brāhmanam.
+420 Cuius cursum non perspiciunt dii, gandhabbae hominesque, cupiditates qui exstinxit, venerabilem, eum ego dico brāhmanam.
+421 Cui et ante et posthac et in medio non est quidquam, inopem, appetitus expertem, eum ego dico brāhmanam.
+422 Tauri (instar), eximium, heroem, magnum vatem, victorem, concupiscentiae expertem, lautum, sapientem, eum ego dico brāhmanam.
+423 Pristinas commorationes qui novit (et) caelum tartarumque perspicit, item generationis interitum (qui) adeptus (et) cognitione confectus (est) anachoreta, —omni confectione confectum, eum ego dico brāhmanam.
