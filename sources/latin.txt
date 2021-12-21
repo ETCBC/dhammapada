@@ -79,7 +79,8 @@ IV
 55 Candanum vel etiam tagarum, uppalum atque vassikis — horum odoratorum praeclarus (est) odor, quo nullus praestantior.
 56 (At) exiguus (tamen) hic odor, qui ipse est tagari et candani; qui vero proborum odor (est), spirat inter deos praestantissimus.
 57 Horum virtute ornatorum,strenue viventium, ob perfectam cognitionem liberatorum Māras viam non invenit.
-58–59 Sicut in sterquilinio ad magnam viam coniecto flos ibi nascitur puro odore praeditus, mentem exhilarans, ita inter (vulgus) stercori simile (versans) occaecato vulgo praelucet intelligentia plane sapientis (Buddhae) sāvakas (auscultator).
+58 Sicut in sterquilinio ad magnam viam coniecto flos ibi nascitur puro odore praeditus, mentem exhilarans,
+59 ita inter (vulgus) stercori simile (versans) occaecato vulgo praelucet intelligentia plane sapientis (Buddhae) sāvakas (auscultator).
 
 V
 60 Longa (est) nox vigilantis, longa via defatigati, longa stultorum revolutio (saṃsāro), veram legem non intelligentium.
@@ -111,7 +112,8 @@ VI
 84 Non sui causa, non alterius causa nec filium expetit (sapiens), nec opes, nec regnum; non expetit iniuriâ incrementum suum, virtute is praeditus (est), intelligentia, iustitia.
 85 Pauci (sunt) ii inter homines, qui homines ripam ulteriorem attingunt, at reliqua ista multitudo ad ripam (citeriorem) tantum accurrit.
 86 Qui convenienter bene enarratae legi degunt, ii homines ripam ulteriorem adibunt, (etsi) fines mortis valde difficiles (sunt) traiectu.
-87-88 Nigra doctrina relicta albam amplectatur sapiens; domo in solitudinem egressus, in secessu, ubi difficile delectatu, ibi delectationem exoptet relictis amoribus inops, lustret sese a cogitationis pravitate sapiens.
+87 Nigra doctrina relicta albam amplectatur sapiens; domo in solitudinem egressus, in secessu.
+88 ubi difficile delectatu, ibi delectationem exoptet relictis amoribus inops, lustret sese a cogitationis pravitate sapiens.
 89 Quorum in scientiae membris cogitatio perfectissime consummata (est), qui cupiditatum omissione, nihil appetentes, gaudent ab affectibus vacui, luminosi, ii in (hoc) aevo (iam) tranquilli.
 
 VII
@@ -321,7 +323,7 @@ XIX
 269 sapiens mala evitat, is munis,  ideo munis est; qui considerat utrumque in mundo, munis ideo appellatur.
 270 Non ideo ariyas (nobilis) fit (ullus), quod animantia caedat; ob mansuetudinem erga omnia animan tiaariyas appellatur.
 271 Non virtute et votis susceptis solis vel rursus multorum recordatione vel etiam meditationis lucratione vel lecto secreto 
-271 adipiscor secessus gaudium viris excellentibus appetitum; o bhikkhus, ne fiduciam habueris qui
+272 adipiscor secessus gaudium viris excellentibus appetitum; o bhikkhus, ne fiduciam habueris qui
 cupiditatum interitum non sis adeptus.
 
 XX

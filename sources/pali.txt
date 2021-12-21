@@ -280,7 +280,7 @@ Bālavagga pañcamo
 6. Paṇḍitavagga
 76 nidhīnaṃ va pavattāraṃ yaṃ passe vajjadassinaṃ
 niggayhavādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje,
-tādisaṃ bhajamānassa seyyo hoti na pāpiyo
+tādisaṃ bhajamānassa seyyo hoti na pāpiyo.
 
 77 ovadeyyânusāseyya asabbhā ca nivāraye,
 sataṃ hi so piyo hoti asataṃ hoti appiyo.
@@ -1411,7 +1411,7 @@ pañcasaṅgātigo bhikkhu oghatiṇṇo 'ti vuccati.
 371 jhāya bhikkhu mā ca pāmado 
 mā te kāmaguṇe bhamassu cittaṃ, 
 mā lohaguḷaṃ gilī pamatto, 
-mā kandī ‘dukkham idan' ti ḍayhamāno. 
+mā kandī dukkham idan' ti ḍayhamāno. 
 
 372 n' atthi jhānaṃ apaññassa paññā n' atthi ajhāyato 
 yamhi jhānañ ca paññā ca sa ve nibbānasantike. 
@@ -1526,7 +1526,7 @@ khantībalaṃ balānīkaṃ tam ahaṃ brūmi brāhmaṇaṃ.
 dantaṃ antimasārīraṃ tam ahaṃ brūmi brāhmaṇaṃ. 
 
 401 vāri pokkharapatte va āragge-r-iva sāsapo 
-yo na lippati kāmesu tam ahaṃ brūmi brāhmaṇaṃ 
+yo na lippati kāmesu tam ahaṃ brūmi brāhmaṇaṃ. 
 
 402 yo dukkhassa pajānāti 
 idh' eva khayam attano 
