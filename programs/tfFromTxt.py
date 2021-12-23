@@ -28,9 +28,9 @@ GENERIC = dict(
     stamp="50480",
 )
 OTEXT = {
-    "fmt:text-orig-full": "{palipre/latinpre}{pali/latin}{palipost/latinpost} ",
-    "fmt:text-pali-full": "{palipre}{pali}{palipost} ",
-    "fmt:text-latin-full": "{latinpre}{latin}{latinpost} ",
+    "fmt:text-orig-full": "{palipre/latinpre}{pali/latin}{palipost/latinpost}",
+    "fmt:text-pali-full": "{palipre}{pali}{palipost}",
+    "fmt:text-latin-full": "{latinpre}{latin}{latinpost}",
     "sectionTypes": "vagga,stanza",
     "sectionFeatures": "n,n",
 }

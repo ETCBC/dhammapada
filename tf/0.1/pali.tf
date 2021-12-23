@@ -19,7 +19,7 @@
 @valueType=str
 @yearPublished=1900
 @writtenBy=Text-Fabric
-@dateWritten=2021-12-23T10:09:17Z
+@dateWritten=2021-12-23T18:12:25Z
 
 Yamakavagga
 manopubbaṅgamā
@@ -2181,7 +2181,7 @@ diṭṭhiṃ
 nissāya
 pāpikaṃ
 phalāni
-kaṭṭhakassȇva
+kaṭṭhakassêva
 attaghaññāya
 phallati
 5031	attanā

@@ -17,7 +17,7 @@
 @valueType=str
 @yearPublished=1900
 @writtenBy=Text-Fabric
-@dateWritten=2021-12-23T10:09:17Z
+@dateWritten=2021-12-23T18:12:25Z
 
 1-12922	word
 12923-15221	clause

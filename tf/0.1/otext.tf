@@ -4,9 +4,9 @@
 @digitizers=Bee Scherer, Yvonne Mataar
 @edition=2nd
 @editor=V. Fausboll
-@fmt:text-latin-full={latinpre}{latin}{latinpost} 
-@fmt:text-orig-full={palipre/latinpre}{pali/latin}{palipost/latinpost} 
-@fmt:text-pali-full={palipre}{pali}{palipost} 
+@fmt:text-latin-full={latinpre}{latin}{latinpost}
+@fmt:text-orig-full={palipre/latinpre}{pali/latin}{palipost/latinpost}
+@fmt:text-pali-full={palipre}{pali}{palipost}
 @institute=Text and Traditions, VU Amsterdam
 @language=pli,lat
 @place=London
@@ -21,5 +21,5 @@
 @title=The Dhammapada
 @yearPublished=1900
 @writtenBy=Text-Fabric
-@dateWritten=2021-12-23T10:09:17Z
+@dateWritten=2021-12-23T18:12:25Z
 
