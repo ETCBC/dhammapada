@@ -57,15 +57,16 @@ And a 3-digit stanza is always a real stanza.
 Sentences, clauses and words either belong to the Pāli original or to the Latin
 translation. The feature `trans` codes which is the case.
 
-!!! caution "Mind the twins"
-    The fact that stanzas contain both the original and the translation has these consequences:
+**Mind the twins**
 
-    *   If you count the words inside a stanza, you add up the Pāli words and the
-        Latin words. Likewise if you count sentences and clauses.
-    *   If you want to count only words, clauses, sentences of one text type,
-        use the `trans` feature to distinguish between them.
-    *   If you count the words *within* sentences or clauses, you count the words of
-        one text type only.
+The fact that stanzas contain both the original and the translation has these consequences:
+
+*   If you count the words inside a stanza, you add up the Pāli words and the
+    Latin words. Likewise if you count sentences and clauses.
+*   If you want to count only words, clauses, sentences of one text type,
+    use the `trans` feature to distinguish between them.
+*   If you count the words *within* sentences or clauses, you count the words of
+    one text type only.
 
 
 ## Text-Fabric model
@@ -123,7 +124,7 @@ Basic unit containing a word plus attached non-word stuff such as punctuation,
 or a text-critical sign like `( ) [ ]`.
 
 feature | values | description
-------- | ------ | ------ | ----------- | --- | ---
+------- | ------ | ------
 **pali** | `manasā` | the real word letters of a Pāli word
 **latin** | `mente` | the real word letters of a Latin word
 **palipre** | `[` | immediately preceding non-word characters of a Pāli word
@@ -179,7 +180,7 @@ feature | values | description
 The following text formats are defined (you can also list them with `T.formats`).
 
 format | description
---- | --- | ---
+--- | ---
 `text-orig-full`     | prints the text of all words, Pāli and Latin
 `text-pali-full`    | prints the text of all Pāli words and leaves Latin words empty
 `text-latin-full`    | prints the text of all Latin words and leaves Pāli words empty
