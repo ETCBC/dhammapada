@@ -615,7 +615,7 @@ yaṃ ve hitañ ca sādhuñ ca taṃ ve paramadukkaraṃ.
 
 164 yo sāsanaṃ arahataṃ aryānaṃ dhammajīvinaṃ 
 paṭikkosati dummedho diṭṭhiṃ nissāya pāpikaṃ 
-phalāni kaṭṭhakassȇva attaghaññāya phallati. 
+phalāni kaṭṭhakassêva attaghaññāya phallati. 
 
 165 attanā va kataṃ pāpaṃ attanā saṃkilissati, 
 attanā akataṃ pāpaṃ attanā va visujjhati, 
@@ -702,9 +702,9 @@ mattaññutā ca bhattasmiṃ pantañ ca sayanāsanaṃ
 adhicitte ca āyogo etaṃ Buddhāna sāsanaṃ. 
 
 186 na kahāpaṇavassena titti kāmesu vijjati, 
-"appassādā dukhā kāmā" iti viññāya paṇḍito 
+"appassādā dukhā kāmā" iti viññāya paṇḍito. 
 
-187 api dibbesu kāmesu ratiṃ so nâdhigacchati, 
+187 Api dibbesu kāmesu ratiṃ so nâdhigacchati, 
 taṇhakkhayarato hoti sammāsambuddhasāvako. 
 
 188 bahuṃ ve saraṇaṃ yanti pabbatāni vanāni ca 

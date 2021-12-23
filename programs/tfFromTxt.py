@@ -28,12 +28,13 @@ GENERIC = dict(
     stamp="50480",
 )
 OTEXT = {
-    "fmt:text-orig-full": "{preo}{orig}{posto} ",
-    "fmt:text-trans-full": "{pret}{trans}{postt} ",
+    "fmt:text-orig-full": "{palipre/latinpre}{pali/latin}{palipost/latinpost} ",
+    "fmt:text-pali-full": "{palipre}{pali}{palipost} ",
+    "fmt:text-latin-full": "{latinpre}{latin}{latinpost} ",
     "sectionTypes": "vagga,stanza",
     "sectionFeatures": "n,n",
 }
-INT_FEATURES = {"n", "orig", "instanza", "quote", "uncertain", "clarity"}
+INT_FEATURES = {"n", "trans", "extrastanza", "quote", "uncertain", "clarity"}
 
 FEATURE_META = dict(
     n=dict(
@@ -43,55 +44,57 @@ FEATURE_META = dict(
         ),
         format="positive number, 0 for pre-stanza material in a vagga",
     ),
-    orig=dict(
+    pali=dict(
         description="bare word (without non-word-letters)",
         format="string (for Pali original) or empty (for Latin translation)",
     ),
-    preo=dict(
+    palipre=dict(
         description="non-word letters before word, no leading spaces",
         format="string (for Pali original) or empty (for Latin translation)",
     ),
-    posto=dict(
+    palipost=dict(
         description="non-word letters after word, with trailing spaces",
         format="string (for Pali original) or empty (for Latin translation)",
     ),
-    trans=dict(
+    latin=dict(
         description="bare word (without non-word-letters)",
         format="string (for Latin translation) or empty (for Pali original)",
     ),
-    pret=dict(
+    latinpre=dict(
         description="non-word letters before word, no leading spaces",
         format="string (for Latin translation) or empty (for Pali original)",
     ),
-    postt=dict(
+    latinpost=dict(
         description="non-word letters after word, with trailing spaces",
         format="string (for Latin translation) or empty (for Pali original)",
     ),
-    instanza=dict(
-        description="word is inside a stanza, not pre/post vagga material",
-        format="1 (=true) or 0 (=false)",
+    extrastanza=dict(
+        description=(
+            "word is outside a stanza," " between stanzas or in pre/post vagga material"
+        ),
+        format="1 (=true) or absent (=false)",
     ),
     quote=dict(
         description="word is inside a quote",
-        format="1 (=true) or 0 (=false)",
+        format="1 (=true) or absent (=false)"
     ),
     uncertain=dict(
         description=(
             "word is marked as uncertain by inclusion in [ and ]; "
-            "only in Pali original",
+            "only in Pali original"
         ),
-        format="1 (=true) or 0 (=false)",
+        format="1 (=true) or absent (=false)",
     ),
     clarity=dict(
         description=(
             "word is inserted for clarity, marked by inclusion in ( and ); "
-            "only in Latin translation",
+            "only in Latin translation"
         ),
-        format="1 (=true) or 0 (=false)",
+        format="1 (=true) or absent (=false)",
     ),
-    lang=dict(
-        description="language of word, clause, or sentence",
-        format="1 (=Pali) or 0 (=Latin)",
+    trans=dict(
+        description="whether the node belongs to the original text or a translation",
+        format="1 (=Latin translation) or absent (=Pali original)",
     ),
 )
 
@@ -404,24 +407,25 @@ class Converter:
                             realPost = hasLetterRe.search(postBracket)
                             if not realPost:
                                 if realPre:
-                                    words.append(preBracket)
-                                    words.append(bracketed + postBracket)
+                                    words.append([preBracket, False])
+                                    words.append([bracketed + postBracket, False])
                                 else:
-                                    words.append(preBracket + bracketed + postBracket)
+                                    words.append([preBracket + bracketed + postBracket, False])
                                 break
                             else:
                                 if realPre:
-                                    words.append(preBracket)
-                                    words.append(bracketed)
+                                    words.append([preBracket, False])
+                                    words.append([bracketed, False])
                                 else:
-                                    words.append(preBracket + bracketed)
+                                    words.append([preBracket + bracketed, False])
                                 remaining = postBracket
                         else:
                             if remaining:
-                                words.append(remaining)
+                                words.append([remaining, False])
                             break
+                    words[-1][-1] = True
 
-                for word in words:
+                for (word, addSpace) in words:
                     match = wordRe.match(word)
                     if not match:
                         self.msg(f"Strange word: │{word}│")
@@ -431,10 +435,18 @@ class Converter:
                     preWord = match.group(1)
                     word = match.group(2)
                     postWord = match.group(3)
+                    if addSpace:
+                        postWord += " "
 
                     if word == "-":
-                        postWord = "-"
-                        word = ""
+                        tokens[-1][-1] += " - "
+                        affixes[POST][tokens[-1][-1]] += 1
+                        continue
+
+                    if word == "":
+                        self.msg(f"Empty word: {preWord}||{postWord}")
+                        good = False
+                        break
 
                     affixes[PRE][preWord] += 1
                     affixes[POST][postWord] += 1
@@ -443,8 +455,10 @@ class Converter:
                         cur["quote"] = not cur["quote"]
                     if "“" in preWord:
                         cur["quote"] = True
+                        preWord = preWord.replace("“", '"')
                     elif "”" in preWord:
                         cur["quote"] = False
+                        preWord = preWord.replace("”", '"')
                     if "[" in preWord:
                         cur["uncertain"] = True
                     elif "]" in preWord:
@@ -456,7 +470,7 @@ class Converter:
 
                     status = "±" if inStanza else "^" if vaggaHead else "$"
                     tokens.append(
-                        (
+                        [
                             cur["line"],
                             cur["vagga"],
                             cur["stanza"],
@@ -469,7 +483,7 @@ class Converter:
                             preWord,
                             word,
                             postWord,
-                        )
+                        ]
                     )
 
                     if "[" in postWord:
@@ -484,8 +498,10 @@ class Converter:
                         cur["quote"] = not cur["quote"]
                     if "“" in postWord:
                         cur["quote"] = True
+                        postWord = postWord.replace("“", '"')
                     elif "”" in postWord:
                         cur["quote"] = False
+                        postWord = postWord.replace("”", '"')
                     if (
                         "," in postWord
                         or ";" in postWord
@@ -672,127 +688,138 @@ class Converter:
                                 f" {preRep}{word:<20}{postRep}"
                             )
 
+    def makeTf(self):
+        chunks = self.chunks
+        cv = CV(Fabric(locations=TF_DIR))
 
-def convert():
-    cv = CV(Fabric(locations=TF_DIR))
+        def director(cv):
+            SENTENCE = "sentence"
+            CLAUSE = "clause"
+            NTYPES = (SENTENCE, CLAUSE)
 
-    return cv.walk(
-        director,
-        SLOT_TYPE,
-        otext=OTEXT,
-        generic=GENERIC,
-        intFeatures=INT_FEATURES,
-        featureMeta=FEATURE_META,
-        generateTf=True,
-    )
+            for (vagga, stanzaData) in chunks[PALI].items():
+                vaggaNode = cv.node("vagga")
+                cv.feature(vaggaNode, n=vagga)
+                pending = {src: {nType: None for nType in NTYPES} for src in SOURCES}
+                last = {src: {nType: None for nType in NTYPES} for src in SOURCES}
 
+                sentenceData = {}
 
-def director(cv):
-    C = Converter()
-    C.tokenize()
-    C.chunkify()
+                for (stanza, sentenceDataPali) in stanzaData.items():
+                    extrastanza = 1 if stanza >= 1000 else None
+                    sentenceDataLatin = (
+                        {} if extrastanza else chunks[LATIN][vagga][stanza]
+                    )
 
-    SENTENCE = "sentence"
-    CLAUSE = "clause"
-    NTYPES = (SENTENCE, CLAUSE)
+                    stanzaNode = cv.node("stanza")
+                    cv.feature(stanzaNode, n=stanza)
 
-    for (vagga, stanzaData) in C.chunks[PALI].items():
-        vaggaNode = cv.node("vagga")
-        cv.feature(vaggaNode, n=vagga)
-        pending = {src: {nType: None for nType in NTYPES} for src in SOURCES}
-        last = {src: {nType: None for nType in NTYPES} for src in SOURCES}
+                    sentenceDataAll = {PALI: sentenceDataPali, LATIN: sentenceDataLatin}
 
-        sentenceData = {}
+                    for (src, sentenceData) in sentenceDataAll.items():
+                        trans = None if src == PALI else 1
 
-        for (stanza, sentenceDataPali) in stanzaData.items():
-            instanza = 1 if stanza < 1000 else 0
-            sentenceDataLatin = C.chunks[LATIN][vagga][stanza] if instanza else {}
+                        myPending = pending[src]
+                        myLast = last[src]
 
-            stanzaNode = cv.node("stanza")
-            cv.feature(stanzaNode, n=stanza)
+                        for (nType, node) in myPending.items():
+                            if node:
+                                cv.resume(node)
 
-            sentenceDataAll = {PALI: sentenceDataPali, LATIN: sentenceDataLatin}
+                        for (sentence, clauseData) in sentenceData.items():
+                            sentenceNode = myPending[SENTENCE]
+                            if myLast[SENTENCE] != sentence:
+                                clauseNode = myPending[CLAUSE]
+                                if clauseNode:
+                                    cv.terminate(clauseNode)
+                                    myPending[CLAUSE] = None
+                                if sentenceNode:
+                                    cv.terminate(sentenceNode)
+                                sentenceNode = cv.node("sentence")
+                                myPending[SENTENCE] = sentenceNode
+                                cv.feature(sentenceNode, n=sentence, trans=trans)
+                                myLast[CLAUSE] = None
 
-            for (src, sentenceData) in sentenceDataAll.items():
-                lang = 1 if src == PALI else 0
+                            for (clause, wordData) in clauseData.items():
+                                clauseNode = myPending[CLAUSE]
+                                if myLast[CLAUSE] != clause:
+                                    if clauseNode:
+                                        cv.terminate(clauseNode)
+                                    clauseNode = cv.node("clause")
+                                    myPending[CLAUSE] = clauseNode
+                                    cv.feature(clauseNode, n=clause, trans=trans)
 
-                myPending = pending[src]
-                myLast = last[src]
+                                for (
+                                    line,
+                                    quote,
+                                    uncertain,
+                                    clarity,
+                                    pre,
+                                    word,
+                                    post,
+                                ) in wordData:
+                                    wordNode = cv.slot()
+                                    cv.feature(
+                                        wordNode,
+                                        trans=trans,
+                                        extrastanza=extrastanza,
+                                        quote=1 if quote else None,
+                                        uncertain=1 if uncertain else None,
+                                        clarity=1 if clarity else None,
+                                    )
+                                    wordFeatures = (
+                                        dict(
+                                            latinpre=pre,
+                                            latin=word,
+                                            latinpost=post,
+                                        )
+                                        if trans
+                                        else dict(
+                                            palipre=pre,
+                                            pali=word,
+                                            palipost=post,
+                                        )
+                                    )
+                                    cv.feature(wordNode, **wordFeatures)
 
-                for (nType, node) in myPending.items():
-                    if node:
-                        cv.resume(node)
+                                myLast[CLAUSE] = clause
 
-                for (sentence, clauseData) in sentenceData.items():
-                    sentenceNode = myPending[SENTENCE]
-                    if myLast[SENTENCE] != sentence:
-                        clauseNode = myPending[CLAUSE]
-                        if clauseNode:
-                            cv.terminate(clauseNode)
-                            myPending[CLAUSE] = None
-                        if sentenceNode:
-                            cv.terminate(sentenceNode)
-                        sentenceNode = cv.node("sentence")
-                        myPending[SENTENCE] = sentenceNode
-                        cv.feature(sentenceNode, n=sentence, lang=lang)
-                        myLast[CLAUSE] = None
+                            myLast[SENTENCE] = sentence
 
-                    for (clause, wordData) in clauseData.items():
-                        clauseNode = myPending[CLAUSE]
-                        if myLast[CLAUSE] != clause:
-                            if clauseNode:
-                                cv.terminate(clauseNode)
-                            clauseNode = cv.node("clause")
-                            myPending[CLAUSE] = clauseNode
-                            cv.feature(clauseNode, n=clause, lang=lang)
+                        for nType in NTYPES:
+                            myPending[nType] = None
+                        for n in cv.activeNodes(nTypes=NTYPES):
+                            myPending[n[0]] = n
+                            cv.terminate(n)
 
-                        for (
-                            line,
-                            quote,
-                            uncertain,
-                            clarity,
-                            pre,
-                            word,
-                            post,
-                        ) in wordData:
-                            wordNode = cv.slot()
-                            cv.feature(
-                                wordNode,
-                                lang=lang,
-                                instanza=instanza,
-                                quote=1 if quote else 0,
-                                uncertain=1 if uncertain else 0,
-                                clarity=1 if clarity else 0,
-                            )
-                            wordFeatures = (
-                                dict(
-                                    preo=pre,
-                                    orig=word,
-                                    posto=post,
-                                )
-                                if lang
-                                else dict(
-                                    pret=pre,
-                                    trans=word,
-                                    postt=post,
-                                )
-                            )
-                            cv.feature(wordNode, **wordFeatures)
+                    cv.terminate(stanzaNode)
 
-                        myLast[CLAUSE] = clause
+                for (src, nTypeData) in pending.items():
+                    for (nType, n) in nTypeData.items():
+                        if n:
+                            cv.terminate(n)
+                cv.terminate(vaggaNode)
 
-                    myLast[SENTENCE] = sentence
+        return cv.walk(
+            director,
+            SLOT_TYPE,
+            otext=OTEXT,
+            generic=GENERIC,
+            intFeatures=INT_FEATURES,
+            featureMeta=FEATURE_META,
+            generateTf=True,
+        )
 
-                for nType in NTYPES:
-                    myPending[nType] = None
-                for n in cv.activeNodes(nTypes=NTYPES):
-                    myPending[n[0]] = n
-                    cv.terminate(n)
+    def loadTf(self):
+        TF = Fabric(locations=TF_DIR)
+        allFeatures = TF.explore(silent=True, show=True)
+        loadableFeatures = allFeatures["nodes"] + allFeatures["edges"]
+        api = TF.load(loadableFeatures, silent=False)
+        if api:
+            print(f"max node = {api.F.otype.maxNode}")
+            print("Frequencies of words")
+            for (word, n) in api.F.pali.freqList()[0:20]:
+                print(f"{n:>6} x {word}")
 
-            cv.terminate(stanzaNode)
-
-        for (src, nTypeData) in pending.items():
-            for (nType, n) in nTypeData.items():
-                if n:
-                    cv.terminate(n)
-        cv.terminate(vaggaNode)
+    def interLinking(self):
+        pass
