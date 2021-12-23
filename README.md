@@ -33,7 +33,7 @@ The conversion to Text-Fabric is joint work of
     conversion to the Text-Fabric-sphere.
 
 There is more information on the
-[transcription](https://github.com/etcbc/blob/master/docs/transcription.md)
+[transcription](docs/transcription.md)
 
 ## How to use
 
