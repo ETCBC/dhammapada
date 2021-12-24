@@ -24,13 +24,14 @@ from 1 to 423. These numbers are coded in the feature `n`.
 The original text and its translation are linked stanza-wise.
 
 During conversion we have made a finer division in clauses and sentences.
-Sentences are terminated by `.` and `?`, clauses are terminated by `;`, `:`, and
+Sentences are terminated by `.` and `?`,
 also by `-` when it is not attached to a word.
+`;` and `:` act as clause terminators.
 
 Clauses are subdivided in words, and words consist of
-non-letters before, letters, and non-letters after.
+non-letters-before, letters of the proper word, and non-letters-after.
 
-Sentence and clauses sometimes cross stanza boundaries boundaries, but never
+Sentence and clauses sometimes cross stanza boundaries, but never
 vagga boundaries.
 That is why we number sentences and clauses by their sequence number within their
 vaggas, again in feature `n`.
@@ -38,13 +39,14 @@ vaggas, again in feature `n`.
 Most words are separated by spaces, but we also make word divisions in strings like
 `(qui-)que`.
 
-In the Latin text we encounter `( )`: this is material added for clarity by author
-of the translation, Fausbøll. We code it in the feature `clarity`, see below.
+In the Latin text we encounter `( )`: this is material added for clarity by
+Fausbøll (the author of the translation).
+We code it in the feature `clarity`, see below.
 
 In the Pāli text we also encounter `[ ]`: this is material that is not completely certain.
 We code it in the feature `uncertain`, see below.
 
-In both text there is quoted material. We normalize the quotes to the ASCII double quote
+In both texts there is quoted material. We normalize the quotes to the ASCII double quote
 `"`, and we mark words in a quotation by means of the feature `quote`.
 
 There is (very little) material outside stanzas: one case of interstanza material,
@@ -55,14 +57,14 @@ same vagga, increased by 1000. So a 4-digit stanza number is by definition not a
 And a 3-digit stanza is always a real stanza.
 
 Sentences, clauses and words either belong to the Pāli original or to the Latin
-translation. The feature `trans` codes which is the case.
+translation. The feature `trans` codes which is the case, see below.
 
 **Mind the twins**
 
 The fact that stanzas contain both the original and the translation has these consequences:
 
-*   If you count the words inside a stanza, you add up the Pāli words and the
-    Latin words. Likewise if you count sentences and clauses.
+*   When you count the words inside a stanza, you add up the Pāli words and the
+    Latin words. Likewise for sentences and clauses.
 *   If you want to count only words, clauses, sentences of one text type,
     use the `trans` feature to distinguish between them.
 *   If you count the words *within* sentences or clauses, you count the words of
@@ -72,16 +74,16 @@ The fact that stanzas contain both the original and the translation has these co
 ## Text-Fabric model
 
 The Text-Fabric model views the text as a series of atomic units, called
-*slots*. In this corpus [*words*](#word) are the slots.
+*slots*. In this corpus [*words*](#node-type-word) are the slots.
 
 On top of that, more complex textual objects can be represented as *nodes*. In
 this corpus we have node types for:
 
-[*word*](#word),
-[*clause*](#clause),
-[*sentence*](#sentence),
-[*stanza*](#stanza),
-[*vagga*](#vagga),
+[*word*](#node-type-word),
+[*clause*](#node-type-clause),
+[*sentence*](#node-type-sentence),
+[*stanza*](#node-type-stanza),
+[*vagga*](#node-type-vagga).
 
 The type of every node is given by the feature
 [**otype**](https://annotation.github.io/text-fabric/tf/cheatsheet.html#f-node-features).
@@ -94,7 +96,7 @@ See the table below.
 
 Text-Fabric supports up to three customizable section levels.
 In this corpus we use only two:
-[*vagga*](#vagga) and [*stanza*](#stanza).
+[*vagga*](#node-type-vagga) and [*stanza*](#node-type-stanza).
 
 # Reference table of features
 
@@ -128,14 +130,14 @@ feature | values | description
 **pali** | `manasā` | the real word letters of a Pāli word
 **latin** | `mente` | the real word letters of a Latin word
 **palipre** | `[` | immediately preceding non-word characters of a Pāli word
-**latinpre** | `[` | immediately preceding non-word characters of a Latin word
-**palipost** | `[` | non-word characters after of a Pāli word, including whitespace
-**latinpost** | `[` | non-word characters after of a Latin wor, including whitespaced
+**latinpre** | `(` | immediately preceding non-word characters of a Latin word
+**palipost** | `, ` | non-word characters after of a Pāli word, including whitespace
+**latinpost** | `; ` | non-word characters after of a Latin wor, including whitespaced
 **extrastanza** | `1` | indicates the word is outside a stanza
 **quote** | `1` | indicates the word is inside a quotation
 **uncertain** | `1` | **Pāli only**: indicates the word is uncertain (somewhere inside a `[ ]` pair
 **clarity** | `1` | **Latin only**: indicates the word is added for clarity (somewhere inside a `( )` pair
-**trans** | `1` | indicates the word belongs to the Latin translation
+**trans** | `1` | indicates the word belongs to the Latin translation, when absent it is in the Pāli original
 
 ## Node type [*clause*](#clause)
 
@@ -144,7 +146,7 @@ Subdivision of a containing [*sentence*](#sentence).
 feature | values | description
 ------- | ------ | ------
 **n** | `1` `2` | sequence number of a clause within its vagga
-**trans** | `1` | indicates the clause belongs to the Latin translation
+**trans** | `1` | indicates the word belongs to the Latin translation, when absent it is in the Pāli original
 
 ## Node type [*sentence*](#sentence)
 
@@ -153,7 +155,7 @@ Subdivision of a containing [*vagga*](#vagga).
 feature | values | description
 ------- | ------ | ------
 **n** | `1` `2` | sequence number of a sentence within its vagga
-**trans** | `1` | indicates the sentence belongs to the Latin translation
+**trans** | `1` | indicates the word belongs to the Latin translation, when absent it is in the Pāli original
 
 ## Node type [*stanza*](#stanza)
 
@@ -181,9 +183,9 @@ The following text formats are defined (you can also list them with `T.formats`)
 
 format | description
 --- | ---
-`text-orig-full`     | prints the text of all words, Pāli and Latin
-`text-pali-full`    | prints the text of all Pāli words and leaves Latin words empty
-`text-latin-full`    | prints the text of all Latin words and leaves Pāli words empty
+`text-orig-full`     | the full text of all words, Pāli and Latin
+`text-pali-full`    | the full text of all Pāli words and leaves Latin words empty
+`text-latin-full`    | the full text of all Latin words and leaves Pāli words empty
 `layout-orig-full`   | as `text-orig-full` but with special layout for quote, uncertain, clarity, etc.
 `layout-pali-full`   | as `text-pali-full` but with special layout for quote, uncertain, clarity, etc.
 `layout-latin-full`   | as `text-latin-full` but with special layout for quote, uncertain, clarity, etc.
