@@ -7,7 +7,7 @@ from tf.fabric import Fabric
 from tf.convert.walker import CV
 
 
-VERSION = "0.1"
+VERSION = "0.2"
 SLOT_TYPE = "word"
 GENERIC = dict(
     language="pli,lat",
@@ -26,6 +26,7 @@ GENERIC = dict(
     yearPublished="1900",
     copynote1="Digitisation supported by Shri Brihad Bhartiya Samaj 20 February 2020",
     stamp="50480",
+    version=VERSION,
 )
 OTEXT = {
     "fmt:text-orig-full": "{palipre/latinpre}{pali/latin}{palipost/latinpost}",
@@ -34,7 +35,15 @@ OTEXT = {
     "sectionTypes": "vagga,stanza",
     "sectionFeatures": "n,n",
 }
-INT_FEATURES = {"n", "trans", "extrastanza", "quote", "uncertain", "clarity"}
+INT_FEATURES = {
+    "n",
+    "trans",
+    "extrastanza",
+    "quote",
+    "uncertain",
+    "clarity",
+    "freq_occ",
+}
 
 FEATURE_META = dict(
     n=dict(
@@ -75,8 +84,7 @@ FEATURE_META = dict(
         format="1 (=true) or absent (=false)",
     ),
     quote=dict(
-        description="word is inside a quote",
-        format="1 (=true) or absent (=false)"
+        description="word is inside a quote", format="1 (=true) or absent (=false)"
     ),
     uncertain=dict(
         description=(
@@ -95,6 +103,10 @@ FEATURE_META = dict(
     trans=dict(
         description="whether the node belongs to the original text or a translation",
         format="1 (=Latin translation) or absent (=Pali original)",
+    ),
+    freq_occ=dict(
+        description="the number of times that this word occurs",
+        format="positive integer",
     ),
 )
 
@@ -410,7 +422,9 @@ class Converter:
                                     words.append([preBracket, False])
                                     words.append([bracketed + postBracket, False])
                                 else:
-                                    words.append([preBracket + bracketed + postBracket, False])
+                                    words.append(
+                                        [preBracket + bracketed + postBracket, False]
+                                    )
                                 break
                             else:
                                 if realPre:
@@ -441,6 +455,8 @@ class Converter:
                     if word == "-":
                         tokens[-1][-1] += " - "
                         affixes[POST][tokens[-1][-1]] += 1
+                        cur["sentence"] += 1
+                        cur["clause"] += 1
                         continue
 
                     if word == "":
@@ -502,11 +518,12 @@ class Converter:
                     elif "”" in postWord:
                         cur["quote"] = False
                         postWord = postWord.replace("”", '"')
+
+                    tokens[-1][-1] = postWord
                     if (
                         "," in postWord
                         or ";" in postWord
                         or ":" in postWord
-                        or "-" in postWord
                     ):
                         cur["clause"] += 1
                     if "." in postWord or "?" in postWord:
@@ -692,6 +709,9 @@ class Converter:
         chunks = self.chunks
         cv = CV(Fabric(locations=TF_DIR))
 
+        freqOcc = collections.Counter()
+        wordIndex = {}
+
         def director(cv):
             SENTENCE = "sentence"
             CLAUSE = "clause"
@@ -781,6 +801,8 @@ class Converter:
                                         )
                                     )
                                     cv.feature(wordNode, **wordFeatures)
+                                    freqOcc[word] += 1
+                                    wordIndex[wordNode] = word
 
                                 myLast[CLAUSE] = clause
 
@@ -800,6 +822,9 @@ class Converter:
                             cv.terminate(n)
                 cv.terminate(vaggaNode)
 
+            for (n, word) in wordIndex.items():
+                cv.feature(n, freq_occ=freqOcc[word])
+
         return cv.walk(
             director,
             SLOT_TYPE,
@@ -815,11 +840,17 @@ class Converter:
         allFeatures = TF.explore(silent=True, show=True)
         loadableFeatures = allFeatures["nodes"] + allFeatures["edges"]
         api = TF.load(loadableFeatures, silent=False)
-        if api:
-            print(f"max node = {api.F.otype.maxNode}")
-            print("Frequencies of words")
-            for (word, n) in api.F.pali.freqList()[0:20]:
-                print(f"{n:>6} x {word}")
+        F = api.F
+
+        if not api:
+            return False
+
+        print(f"max node = {api.F.otype.maxNode}")
+        print("Frequencies of words")
+        for (word, n) in F.pali.freqList()[0:20]:
+            print(f"{n:>6} x {word}")
+        for w in F.otype.s("word")[0:50]:
+            print(f"{F.freq_occ.v(w):>4} x {F.pali.v(w) or F.latin.v(w)}")
 
     def interLinking(self):
         pass

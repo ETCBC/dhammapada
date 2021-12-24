@@ -20,6 +20,8 @@ It is written in the Pāli language, which is a close relative of Sanskrit.
 The text that is the source of this dataset rests on the work of
 [Viggo Fausböll](https://en.wikipedia.org/wiki/Viggo_Fausböll) who translated the
 Dhammapada into Latin in 1855.
+We took the text from the 1900 edition of his book in which he included the
+original Pāli text in Latin script.
 
 
 field | value
@@ -32,7 +34,7 @@ publisher | `Luzac & Co., Publishers to the India Office`
 publisher address | `46, Great Russell Street, W.C. London`
 published | `1900`
 
-The cover page of the edition that is the source of this dataset:
+The cover page of that edition is:
 
 ![cover](images/cover.png)
 
@@ -42,15 +44,13 @@ The Dhammapada is divided in *vaggas* which are divided in *stanzas*.
 There are 26 vaggas and 423 stanzas, which are numbered consecutively throughout the whole
 work.
 
-The book uses the latin script for the Pāli text.
-
 As an example, here are the first 7 stanzas of the first vagga in Pāli:
 
 ![pali7](images/pali7.png)
 
 and here the same stanzas in Latin:
 
-![pali7](images/pali7.png)
+![latin7](images/latin7.png)
 
 ## Additional resources
 
@@ -61,6 +61,17 @@ and here the same stanzas in Latin:
 
 # The conversion
 
-The conversion program in in [tfFromTxt.py](programs/tfFromTxt.py).
+The conversion program in in [tfFromTxt.py](../programs/tfFromTxt.py).
 It can be seen in action in a Jupyter notebook: 
 [convert.ipynb](https://nbviewer.org/github/etcbc/dhammapada/blob/master/programs/convert.ipynb)
+
+# Progress
+
+*   **2021-12-24** First version. The text-fabric features correspond to the plain texts and
+    the obvious structure in vaggas, stanzas, sentences, and clauses.
+    No attempts to add linguistic features have been made so far.
+
+# Future work
+
+We can use the current dataset to generate workflows to annotate the texts
+with linguistic features, such as lemma, part-of-speech, etc.

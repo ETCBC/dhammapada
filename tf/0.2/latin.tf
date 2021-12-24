@@ -17,9 +17,10 @@
 @subtitle=being a collection of moral verses in Pali
 @title=The Dhammapada
 @valueType=str
+@version=0.2
 @yearPublished=1900
 @writtenBy=Text-Fabric
-@dateWritten=2021-12-23T18:12:25Z
+@dateWritten=2021-12-24T14:49:10Z
 
 21	Naturae
 a

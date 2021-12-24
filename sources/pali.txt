@@ -214,7 +214,7 @@ yo ca sīlavataṃ gandho vāti devesu uttamo.
 sammadaññāvimuttānaṃ Māro maggaṃ na vindati.
 
 58 yathā saṃkāradhānasmiṃ ujjhitasmiṃ mahāpathe
-padumaṃ tattha jāyetha sucigandhaṃ manoramaṃ,
+padumaṃ tattha jāyetha sucigandhaṃ manoramaṃ;
 
 59 evaṃ saṃkārabhūtesu andhabhūte puthujjane
 atirocati paññāya sammāsambuddhasāvako.
@@ -412,19 +412,19 @@ cattāro dhammā vaḍḍhanti: āyu vaṇṇo sukhaṃ balaṃ.
 110 yo ca vassasataṃ jīve dussīlo asamāhito -
 ekāhaṃ jīvitaṃ seyyo sīlavantassa jhāyino. 
 
-111 yo ca vassasataṃ jīve duppañño asamāhito 
+111 yo ca vassasataṃ jīve duppañño asamāhito -
 ekāhaṃ jīvitaṃ seyyo paññāvantassa jhāyino. 
 
 112 yo ca vassasataṃ jīve kusīto hīnavīriyo 
 ekāhaṃ jīvitaṃ seyyo vīryam ārabhato daḷhaṃ. 
 
-113 yo ca vassasataṃ jīve apassaṃ udayavyayaṃ 
+113 yo ca vassasataṃ jīve apassaṃ udayavyayaṃ -
 ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ. 
 
-114 yo ca vassasataṃ jīve apassaṃ amataṃ padaṃ 
+114 yo ca vassasataṃ jīve apassaṃ amataṃ padaṃ -
 ekāhaṃ jīvitaṃ seyyo passato amataṃ padaṃ. 
 
-115 yo ca vassasataṃ jīve apassaṃ dhammam uttamaṃ 
+115 yo ca vassasataṃ jīve apassaṃ dhammam uttamaṃ -
 ekāhaṃ jīvitaṃ seyyo passato dhammaṃ uttamam. 
 
 Sahassavaggo aṭṭhamo
@@ -509,7 +509,7 @@ evaṃ jarā ca maccu ca āyuṃ pācenti pāṇinaṃ.
 sehi kammehi dummedho aggidaḍḍho va tappati. 
 
 137 yo daṇḍena adaṇḍesu appaduṭṭhesu dussati 
-dasann' aññataraṃ ṭhānaṃ khippam eva nigacchati. 
+dasann' aññataraṃ ṭhānaṃ khippam eva nigacchati: 
 
 138 vedanaṃ pharusaṃ jāniṃ sarīrassa ca bhedanaṃ 
 garukaṃ vâpi ābādhaṃ cittakkhepaṃ va pāpuṇe. 
@@ -565,7 +565,7 @@ kāpotakāni aṭṭhīni tāni disvāna kā rati.
 yattha jarā ca maccu ca māno makkho ca ohito. 
 
 151 jīranti ve rājarathā sucittā 
-atho sarīram pi jaraṃ upeti 
+atho sarīram pi jaraṃ upeti. 
 satañ ca dhammo na jaraṃ upeti 
 santo have sabbhi pavedayanti. 
 
@@ -574,7 +574,6 @@ maṃsāni tassa vaḍḍhanti paññā tassa na vaḍḍhati.
 
 153 anekajātisaṃsāraṃ sandhāvissaṃ anibbisaṃ 
 gahakārakaṃ gavesanto, dukkhā jāti punappunaṃ. 
-
 
 154 gahakāraka diṭṭḥo si puna gehaṃ na kāhasi, 
 sabbā te phāsukā bhaggā gahakūṭaṃ visaṃkhitaṃ, 
@@ -599,7 +598,7 @@ ath' aññam anusāseyya, na kilisseyya paṇḍito.
 159 attānañ ce tathā kayrā yath' aññam anusāsati 
 sudanto vata dametha, attā hi kira duddamo. 
 
-160 attā hi attano nātho, ko hi nātho paro siyā; 
+160 attā hi attano nātho, ko hi nātho paro siyā,
 attanā hi sudantena nāthaṃ labhati dullabhaṃ. 
 
 161 attanā va kataṃ pāpaṃ 
@@ -672,7 +671,7 @@ Lokavaggo terasamo
 
 14. Buddhavagga
 179 yassa jitaṃ nâvajīyati 
-jitaṃ assa no yāti koci loke, 
+jitaṃ assa no yāti koci loke 
 tam buddham anantagocaraṃ 
 apadaṃ kena padena nessatha. 
 
@@ -702,7 +701,7 @@ mattaññutā ca bhattasmiṃ pantañ ca sayanāsanaṃ
 adhicitte ca āyogo etaṃ Buddhāna sāsanaṃ. 
 
 186 na kahāpaṇavassena titti kāmesu vijjati, 
-"appassādā dukhā kāmā" iti viññāya paṇḍito. 
+"appassādā dukhā kāmā" iti viññāya paṇḍito 
 
 187 Api dibbesu kāmesu ratiṃ so nâdhigacchati, 
 taṇhakkhayarato hoti sammāsambuddhasāvako. 
@@ -723,7 +722,7 @@ sammapaññāya passati
 191 dukkhaṃ dukkhasamuppādaṃ 
 dukkhassa ca atikkamaṃ 
 ariyañ c' aṭṭhaṅgikaṃ maggaṃ 
-dukkhūpasamagāminaṃ. 
+dukkhūpasamagāminaṃ 
 
 192 etaṃ kho saraṇaṃ khemaṃ etaṃ saraṇam uttamaṃ 
 etaṃ saraṇaṃ āgamma sabbadukkhā pamuccati. 
@@ -735,7 +734,7 @@ yattha so jāyatī dhīro taṃ kulaṃ sukham edhati.
 sukhā saṃghassa sāmaggī samaggānaṃ tapo sukho. 
 
 195 pūjārahe pūjayato Buddhe yadiva sāvake 
-papañcasamatikkante tiṇṇasokapariddave, 
+papañcasamatikkante tiṇṇasokapariddave 
 
 196 te tādise pūjayato nibbute akutobhaye 
 na sakkā puññaṃ saṃkhātuṃ im' ettam api kenaci.
@@ -864,7 +863,7 @@ mitabhāṇinam pi nindanti, n' atthi loke anindito.
 ekantaṃ nindito poso ekantaṃ vā pasaṃsito. 
 
 229 yañ ce viññū pasaṃsanti anuvicca suve suve 
-acchiddavuttiṃ medhāviṃ paññāsīlasamāhitaṃ. 
+acchiddavuttiṃ medhāviṃ paññāsīlasamāhitaṃ 
 
 230 nekkhaṃ jambonadassêva ko taṃ ninditum arhati, 
 devâpi naṃ pasaṃsanti, Brahmunâpi pasaṃsito. 
@@ -1119,7 +1118,7 @@ yesaṃ divā ca ratto ca niccaṃ Saṃgha-gatā sati.
 299 suppabuddhaṃ pabujjhanti sadā Gotamasāvakā 
 yesaṃ divā ca ratto ca niccaṃ kāyagatā sati. 
 
-300 suppabuddhaṃ pabujjhanti sadā Gotamasāvakā 
+300 suppabuddhaṃ pabujjhanti sadā Gotamasāvakā. 
 yesaṃ divā ca ratto ca ahiṃsāya rato mano. 
 
 301 suppabuddhaṃ pabujjhanti sadā Gotamasāvakā 
@@ -1277,10 +1276,10 @@ mā vo naḷaṃ va soto va Māro bhañji punappunaṃ.
 338 yathāpi mūle anupaddave daḷhe 
 chinno pi rukkho punar eva rūhati 
 evam pi taṇhānusaye anūhate 
-nibbattati dukkham idaṃ punappunaṃ. 
+nibbattati dukkham idaṃ punappunaṃ 
 
-339 yassa chattiṃsatī sotā manāpassavanā bhusā, 
-vāhā vahanti duddiṭṭhaṃ saṃkappā rāganissitā. 
+339 yassa chattiṃsatī sotā manāpassavanā bhusā 
+vāhā vahanti duddiṭṭhaṃ saṃkappā rāganissitā 
 
 340 savanti sabbadā sotā latā ubbhijja tiṭṭhati 
 tañ ca disvā lataṃ jātaṃ mūlaṃ paññāya chindatha. 
@@ -1374,7 +1373,7 @@ Taṇhāvaggo catuvīsatimo
 ghāṇena saṃvaro sādhu, sādhu jivhāya saṃvaro. 
 
 361 kāyena saṃvaro sādhu, sādhu vācāya saṃvaro, 
-manasā saṃvaro sādhu, sādhu sabbattha saṃvaro 
+manasā saṃvaro sādhu, sādhu sabbattha saṃvaro, 
 sabbattha saṃvuto bhikkhu sabbadukkhā pamuccati. 
 
 362 hatthasaññato pādasaññato 
@@ -1464,8 +1463,8 @@ vītaddaraṃ visaññuttaṃ tam ahaṃ brūmi brāhmaṇaṃ.
 386 jhāyiṃ virajam āsīnaṃ katakiccaṃ anāsavaṃ 
 uttamatthaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ. 
 
-387 divā tapati ādicco, rattiṃ ābhāti candimā, 
-sannaddho khattyo tapati, jhāyī tapati brāhmaṇo, 
+387 divā tapati ādicco, rattiṃ ābhāti candimā. 
+sannaddho khattyo tapati, jhāyī tapati brāhmaṇo. 
 atha sabbam ahorattiṃ Buddho tapati tejasā. 
 
 388 bāhitapāpo ti brāhmaṇo 
@@ -1473,7 +1472,7 @@ samacaryā samaṇo ti vuccati.
 pabbājayam attano malaṃ 
 tasmā pabbajito ti vuccati. 
 
-389 na brāhmaṇassa hareyya 
+389 na brāhmaṇassa hareyya; 
 nâssa muñcetha brāhmaṇo, 
 dhī brāhmaṇassa hantāraṃ, 
 tato dhī y' assa muñcati. 
@@ -1496,7 +1495,7 @@ na jaccā hoti brāhmaṇo,
 yamhi saccañ ca dhammo ca 
 so sukhī so ca brāhmaṇo. 
 
-394 kin te jaṭāhi dummedha, kin te ajinasāṭiyā, 
+394 kin te jaṭāhi dummedha, kin te ajinasāṭiyā. 
 abbhantaran te gahanaṃ, bāhiraṃ parimajjasi. 
 
 395 paṃsukūladharaṃ jantuṃ 

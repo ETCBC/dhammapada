@@ -13,7 +13,7 @@
 ## About
 
 This is the
-[text-fabric](https://github.com/Dans-labs/text-fabric/wiki)
+[text-fabric](https://github.com/annotation/text-fabric)
 representation of the Dhammapada in the edition with Latin translation by V. Fausböll, 1900.
 
 See [about](docs/about.md) for more information about this textual source.
@@ -33,14 +33,14 @@ The conversion to Text-Fabric is joint work of
     conversion to the Text-Fabric-sphere.
 
 There is more information on the
-[transcription](docs/transcription.md)
+[transcription](docs/transcription.md).
 
 ## How to use
 
 This data can be processed by 
 [Text-Fabric](https://annotation.github.io/text-fabric/tf).
 
-Text-Fabric will automatically download the BHSA data.
+Text-Fabric will automatically download the corpus data.
 
 After installing Text-Fabric, you can start the Text-Fabric browser by this command
 

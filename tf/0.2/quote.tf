@@ -1,7 +1,7 @@
 @node
 @converters=Dirk Roorda (Text-Fabric)
 @copynote1=Digitisation supported by Shri Brihad Bhartiya Samaj 20 February 2020
-@description=word is outside a stanza, between stanzas or in pre/post vagga material
+@description=word is inside a quote
 @digitizers=Bee Scherer, Yvonne Mataar
 @edition=2nd
 @editor=V. Fausboll
@@ -17,92 +17,80 @@
 @subtitle=being a collection of moral verses in Pali
 @title=The Dhammapada
 @valueType=int
+@version=0.2
 @yearPublished=1900
 @writtenBy=Text-Fabric
-@dateWritten=2021-12-23T18:12:25Z
+@dateWritten=2021-12-24T14:49:10Z
 
+89	1
 1
-685	1
 1
 1
-986	1
 1
 1
-1276	1
 1
 1
-1721	1
+104	1
 1
 1
-2232	1
 1
 1
-2647	1
 1
 1
-2977	1
 1
 1
-3484	1
+122	1
 1
 1
-3907	1
 1
 1
-4433	1
 1
 1
-4774	1
 1
+137	1
 1
-5102	1
+180	1
 1
 1
-5459	1
+516	1
 1
 1
-5987	1
+536	1
 1
 1
 1
-6332	1
+554	1
 1
 1
-6683	1
+575	1
 1
 1
-7077	1
 1
+1784	1
 1
-7738	1
 1
 1
-8232	1
 1
 1
-8772	1
+1802	1
 1
 1
-9237	1
 1
 1
-9680	1
 1
+2140	1
 1
-10132	1
 1
 1
-10985	1
 1
 1
-11676	1
 1
 1
-12878	1
 1
 1
 1
 1
+2159	1
 1
 1
 1
@@ -127,6 +115,7 @@
 1
 1
 1
+2208	1
 1
 1
 1
@@ -139,7 +128,58 @@
 1
 1
 1
+3640	1
 1
 1
+1
+3661	1
+1
+1
+1
+3676	1
+1
+1
+1
+3697	1
+1
+1
+1
+5693	1
+1
+1
+8349	1
+1
+1
+8362	1
+1
+1
+8381	1
+1
+1
+8394	1
+1
+1
+1
+8414	1
+1
+1
+8427	1
+1
+1
+1
+1
+8673	1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+9265	1
+1
+11353	1
 1
 1
