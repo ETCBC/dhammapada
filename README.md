@@ -1,7 +1,7 @@
 # Dhammapada latine
 
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/ETCBC/bhsa/)](https://archive.softwareheritage.org/browse/origin/https://github.com/ETCBC/bhsa/)
-[![DOI](https://zenodo.org/badge/104559294.svg)](https://zenodo.org/badge/latestdoi/104559294)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/ETCBC/dhammapada/)](https://archive.softwareheritage.org/browse/origin/https://github.com/ETCBC/dhammapada/)
+[![DOI](https://zenodo.org/badge/440102377.svg)](https://zenodo.org/badge/latestdoi/440102377)
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
 [![etcbc](programs/images/etcbc.png)](http://www.etcbc.nl)
