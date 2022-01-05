@@ -1,0 +1,38 @@
+apiVersion: 3
+dataDisplay:
+  exampleSectionHtml: <code>Vagga 1:1</code>
+  noneValues:
+  - none
+  - unknown
+  - null
+  - NA
+  textFormats:
+    layout-orig-full: 
+      method: layoutOrig
+    layout-pali-full:
+      method:  layoutPali
+    layout-latin-full:
+      method:  layoutLatin
+docs:
+  docPage: about
+  featureBase: '{docBase}/transcription.md'
+  featurePage: transcription
+interfaceDefaults: {}
+provenanceSpec:
+  corpus: Dhammapada-Latine
+  doi: 10.5281/zenodo.1007624
+  org: etcbc
+  repo: dhammapada
+  version: '0.2'
+  webBase: https://www.tipitaka.net/tipitaka/dhp
+  webHint: Show this stanza with English translation and comments on tipitaka
+  webUrl: '{webBase}/verseload.php?verse=<2>'
+  webUrlZeros:
+    2: 3
+typeDisplay:
+  clause:
+    label: '{n}'
+  sentence:
+    label: '{n}'
+  word:
+    features: quote uncertain clarity
