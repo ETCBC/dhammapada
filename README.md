@@ -45,7 +45,7 @@ Text-Fabric will automatically download the corpus data.
 After installing Text-Fabric, you can start the Text-Fabric browser by this command
 
 ```sh
-text-fabric dhammapada
+text-fabric etcbc/dhammapada
 ```
 
 Alternatively, you can work in a Jupyter notebook and say
@@ -53,16 +53,23 @@ Alternatively, you can work in a Jupyter notebook and say
 ```python
 from tf.app import use
 
-A = use('dhammapada')
+A = use('etcbc/dhammapada')
 ```
 
 In both cases the data is downloaded and ends up in your home directory,
 under `text-fabric-data`.
 
 See also 
-[start](https://nbviewer.jupyter.org/github/annotation/tutorials/blob/master/dhammapada/start.ipynb)
+[start](https://nbviewer.jupyter.org/github/etcbc/dhammapada/blob/master/tutorial/start.ipynb)
 and
-[search](https://nbviewer.jupyter.org/github/annotation/tutorials/blob/master/dhammapada/search.ipynb).
+[search](https://nbviewer.jupyter.org/github/etcbc/dhammapada/blob/master/tutorial/search.ipynb).
+
+There is also a static search interface.
+It is online, but it works on your computer, in the browser.
+
+Just click
+[dhammapada-search](https://etcbc.github.io/dhammapada-search/)
+and off you go.
 
 # Author
 
