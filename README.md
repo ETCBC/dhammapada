@@ -1,6 +1,6 @@
 # Dhammapada latine
 
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/ETCBC/dhammapada/)](https://archive.softwareheritage.org/browse/origin/https://github.com/ETCBC/dhammapada/)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/ETCBC/dhammapada/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/ETCBC/dhammapada)
 [![DOI](https://zenodo.org/badge/440102377.svg)](https://zenodo.org/badge/latestdoi/440102377)
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
@@ -37,12 +37,31 @@ There is more information on the
 
 ## How to use
 
+### Without installing anything
+
+There is an online search interface to both the Pāli text and the Latin translation.
+It is online, but it works purely on your computer, in the browser.
+
+Just click
+[dhammapada-search](https://etcbc.github.io/dhammapada-search/)
+and off you go.
+
+**Hint 1:**
+Search for the latin word `et`.
+
+**Hint 2:**
+Click on the buttons `pali` or `latin` to see a sizable portion of the text.
+This might give you some clues for patterns to search.
+
+### Having Text-Fabric installed
+
 This data can be processed by 
 [Text-Fabric](https://annotation.github.io/text-fabric/tf).
 
 Text-Fabric will automatically download the corpus data.
 
-After installing Text-Fabric, you can start the Text-Fabric browser by this command
+After [installing Text-Fabric](https://annotation.github.io/text-fabric/tf/about/install.html),
+you can start the Text-Fabric browser by this command
 
 ```sh
 text-fabric etcbc/dhammapada
@@ -63,13 +82,6 @@ See also
 [start](https://nbviewer.jupyter.org/github/etcbc/dhammapada/blob/master/tutorial/start.ipynb)
 and
 [search](https://nbviewer.jupyter.org/github/etcbc/dhammapada/blob/master/tutorial/search.ipynb).
-
-There is also a static search interface.
-It is online, but it works on your computer, in the browser.
-
-Just click
-[dhammapada-search](https://etcbc.github.io/dhammapada-search/)
-and off you go.
 
 # Author
 
