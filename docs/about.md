@@ -11,7 +11,7 @@ It is written in the Pāli language, which is a close relative of Sanskrit.
 *   [wikipedia Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
 *   [wikipedia Pāli](https://en.wikipedia.org/wiki/Pali), ISO-codes `pli`, `pi`
 *   [Pāli-English with comments, by stanza](https://www.tipitaka.net/tipitaka/dhp/)
-*   [Interlinear Pāli-English (single pdf)](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Dhammapada/Dhammapada.pdf)
+*   [Interlinear Pāli-English (single PDF)](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Dhammapada/Dhammapada.pdf)
 *   [English translation online](http://www.buddhanet.net/e-learning/buddhism/dhamma.htm)
 *   [English translation (single PDF)](http://www.buddhanet.net/pdf_file/scrndhamma.pdf)
 
@@ -57,7 +57,7 @@ and here the same stanzas in Latin:
 *   Fausbøll, Michael Viggo, The Dhammapada. Being a collection of moral verses in Pali.
     Edited a second time with a literal Latin translation and notes
     for the use of Pali students.
-    [free fragment of an article by Burkhard Scherer (pdf)](https://link.springer.com/article/10.1023/A:1012252226747)
+    [free fragment of an article by Burkhard Scherer (PDF)](https://link.springer.com/article/10.1023/A:1012252226747)
 
 # The conversion
 

@@ -86,15 +86,15 @@ this corpus we have node types for:
 [*vagga*](#node-type-vagga).
 
 The type of every node is given by the feature
-[**otype**](https://annotation.github.io/text-fabric/tf/cheatsheet.html#f-node-features).
+[*`otype`*](https://annotation.github.io/text-fabric/tf/cheatsheet.html#f-node-features).
 Every node is linked to a subset of slots by
-[**oslots**](https://annotation.github.io/text-fabric/tf/cheatsheet.html#special-edge-feature-oslots).
+[*`oslots`*](https://annotation.github.io/text-fabric/tf/cheatsheet.html#special-edge-feature-oslots).
 
 Nodes can be annotated with features.
 Relations between nodes can be annotated with edge features.
 See the table below.
 
-Text-Fabric supports up to three customizable section levels.
+Text-Fabric supports up to three customisable section levels.
 In this corpus we use only two:
 [*vagga*](#node-type-vagga) and [*stanza*](#node-type-stanza).
 
@@ -127,17 +127,17 @@ or a text-critical sign like `( ) [ ]`.
 
 feature | values | description
 ------- | ------ | ------
-**pali** | `manasā` | the real word letters of a Pāli word
-**latin** | `mente` | the real word letters of a Latin word
-**palipre** | `[` | immediately preceding non-word characters of a Pāli word
-**latinpre** | `(` | immediately preceding non-word characters of a Latin word
-**palipost** | `, ` | non-word characters after of a Pāli word, including whitespace
-**latinpost** | `; ` | non-word characters after of a Latin wor, including whitespaced
-**extrastanza** | `1` | indicates the word is outside a stanza
-**quote** | `1` | indicates the word is inside a quotation
-**uncertain** | `1` | **Pāli only**: indicates the word is uncertain (somewhere inside a `[ ]` pair
-**clarity** | `1` | **Latin only**: indicates the word is added for clarity (somewhere inside a `( )` pair
-**trans** | `1` | indicates the word belongs to the Latin translation, when absent it is in the Pāli original
+*`pali`* | `manasā` | the real word letters of a Pāli word
+*`latin`* | `mente` | the real word letters of a Latin word
+*`palipre`* | `[` | immediately preceding non-word characters of a Pāli word
+*`latinpre`* | `(` | immediately preceding non-word characters of a Latin word
+*`palipost`* | `, ` | non-word characters after of a Pāli word, including white-space
+*`latinpost`* | `; ` | non-word characters after of a Latin word, including white-spaced
+*`extrastanza`* | `1` | indicates the word is outside a stanza
+*`quote`* | `1` | indicates the word is inside a quotation
+*`uncertain`* | `1` | **Pāli only**: indicates the word is uncertain (somewhere inside a `[ ]` pair
+*`clarity`* | `1` | **Latin only**: indicates the word is added for clarity (somewhere inside a `( )` pair
+*`trans`* | `1` | indicates the word belongs to the Latin translation, when absent it is in the Pāli original
 
 ## Node type [*clause*](#clause)
 
@@ -145,8 +145,8 @@ Subdivision of a containing [*sentence*](#sentence).
 
 feature | values | description
 ------- | ------ | ------
-**n** | `1` `2` | sequence number of a clause within its vagga
-**trans** | `1` | indicates the word belongs to the Latin translation, when absent it is in the Pāli original
+*`n`* | `1` `2` | sequence number of a clause within its vagga
+*`trans`* | `1` | indicates the word belongs to the Latin translation, when absent it is in the Pāli original
 
 ## Node type [*sentence*](#sentence)
 
@@ -154,8 +154,8 @@ Subdivision of a containing [*vagga*](#vagga).
 
 feature | values | description
 ------- | ------ | ------
-**n** | `1` `2` | sequence number of a sentence within its vagga
-**trans** | `1` | indicates the word belongs to the Latin translation, when absent it is in the Pāli original
+*`n`* | `1` `2` | sequence number of a sentence within its vagga
+*`trans`* | `1` | indicates the word belongs to the Latin translation, when absent it is in the Pāli original
 
 ## Node type [*stanza*](#stanza)
 
@@ -165,7 +165,7 @@ Subdivision of a containing [*vagga*](#vagga).
 
 feature | values | description
 ------- | ------ | ------
-**n** | `1` `2` | sequence number of a stanza within the whole work
+*`n`* | `1` `2` | sequence number of a stanza within the whole work
 
 ## Node type [*vagga*](#vagga)
 
@@ -175,7 +175,7 @@ Subdivision of the whole work.
 
 feature | values | description
 ------- | ------ | ------
-**n** | `1` `2` | sequence number of a vagga within the whole work
+*`n`* | `1` `2` | sequence number of a vagga within the whole work
 
 # Text formats
 
@@ -192,7 +192,7 @@ format | description
 
 The formats with `text` result in strings that are plain text, without additional formatting.
 
-The formats with `layout` result in pieces html with css-styles;
+The formats with `layout` result in pieces HTML with CSS-styles;
 the richness of layout enables us to code more information
 in the plain representation, e.g. blurry characters when words are uncertain.
 We also use different colours for Pali and Latin.
